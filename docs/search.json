@@ -105,6 +105,13 @@
     "text": "Alternative Water Sources During Disruptions"
   },
   {
+    "objectID": "basic_services/basic_services_01.html#corrrelation-between-different-questions-about-electricity",
+    "href": "basic_services/basic_services_01.html#corrrelation-between-different-questions-about-electricity",
+    "title": "Electricity",
+    "section": "Corrrelation between different questions about electricity",
+    "text": "Corrrelation between different questions about electricity\nThere is a clear correlation between perceptions of electricity service quality as a serious problem and support for increased tariffs to improve quality, suggesting that consumers who recognize service problems are more willing to pay higher rates for improvements."
+  },
+  {
     "objectID": "finance/finance_01.html",
     "href": "finance/finance_01.html",
     "title": "Borrowing and Saving",
@@ -182,11 +189,25 @@
     "text": "Outlook on the future is improving\nOnly small differences between men and women"
   },
   {
+    "objectID": "subjective_poverty/subjective_poverty_01.html#life-satisfaction-correlates-in-indonesian-households",
+    "href": "subjective_poverty/subjective_poverty_01.html#life-satisfaction-correlates-in-indonesian-households",
+    "title": "Poverty: Economic Volatility and Aspirations in Indonesia",
+    "section": "Life Satisfaction Correlates in Indonesian Households",
+    "text": "Life Satisfaction Correlates in Indonesian Households"
+  },
+  {
     "objectID": "views/views_01.html",
     "href": "views/views_01.html",
     "title": "Views on Government Institutions",
     "section": "",
     "text": "Only data from the last 12 months is used (April 2024 to March 2025) for these analyses."
+  },
+  {
+    "objectID": "views/views_01.html#majority-of-population-is-positive-on-economic-conditions",
+    "href": "views/views_01.html#majority-of-population-is-positive-on-economic-conditions",
+    "title": "Views on Government Institutions",
+    "section": "Majority of population is positive on economic conditions",
+    "text": "Majority of population is positive on economic conditions"
   },
   {
     "objectID": "views/views_01.html#institutional-trust-and-public-confidence",
@@ -201,5 +222,12 @@
     "title": "Views on Government Institutions",
     "section": "The middle class pays attention to government, and their views are responsive",
     "text": "The middle class pays attention to government, and their views are responsive\n\n\n\n\n\n\nThe visualization above illustrates how various factors influence whether middle class Indonesians believe the country is on the right track. The y-axis shows the percentage increase or decrease in probability of a middle class person thinking Indonesia’s policy is on the right track associated with each factor.\nThe statistical model takes the form:\n\\[\\text{logit}(P(\\text{right\\_track} = 1)) = \\beta_{\\text{predictor}} \\cdot \\text{predictor} + \\alpha_i + \\varepsilon\\]\nWhere:\n\nright_track is a binary indicator (0/1) for whether a respondent thinks Indonesia is on the right track\npredictor is each binary indicator for various conditions or beliefs\n\\(\\alpha_i\\) represents household fixed effects\nModels are estimated using conditional logistic regression\n\nThe y-axis values represent the percentage increase in the probability associated with each factor, calculated as:\n\\[\\text{Percentage Increase} = (\\exp(\\beta_{\\text{predictor}}) - 1) \\times 100\\%\\]\nFor example, a value of 241% for “Government is doing well on corruption” means that middle class individuals who believe the government is performing well on anti-corruption efforts are 241% more likely to think the country is on the right track. Conversely, negative values indicate factors that decrease this probability.\nThis analysis reveals that perceptions of government performance on issues like corruption, fair elections, economic performance, and digital services are strongly associated with overall satisfaction with the country’s direction. Interestingly, factors like air pollution concerns and personal economic conditions also play significant roles in shaping middle class views on national progress."
+  },
+  {
+    "objectID": "incomes/incomes_01.html#financial-support-programs",
+    "href": "incomes/incomes_01.html#financial-support-programs",
+    "title": "Income sources",
+    "section": "Financial Support Programs",
+    "text": "Financial Support Programs\nOnly data from the last 1 month is used (March 2025) for these analyses."
   }
 ]
