@@ -70,6 +70,13 @@
     "text": "Minimum Wage Perceptions"
   },
   {
+    "objectID": "incomes/incomes_01.html#financial-support-programs",
+    "href": "incomes/incomes_01.html#financial-support-programs",
+    "title": "Income sources",
+    "section": "Financial Support Programs",
+    "text": "Financial Support Programs\nOnly data from the last 1 month is used (March 2025) for these analyses."
+  },
+  {
     "objectID": "food_insecurity/food_insec_3.html",
     "href": "food_insecurity/food_insec_3.html",
     "title": "Food Insecurity within households",
@@ -103,6 +110,13 @@
     "title": "Water",
     "section": "Alternative Water Sources During Disruptions",
     "text": "Alternative Water Sources During Disruptions"
+  },
+  {
+    "objectID": "analyse_data/analyse_data_01.html",
+    "href": "analyse_data/analyse_data_01.html",
+    "title": "Data crosstabulations",
+    "section": "",
+    "text": "Please visit: https://datanalytics.worldbank.org/indo_survey_analyse/ for access to the interactive data crosstabulation tool where you can explore survey relationships, create custom tables, generate visualizations, and export analysis results. We are working on embedding this into the tool itself"
   },
   {
     "objectID": "basic_services/basic_services_01.html#corrrelation-between-different-questions-about-electricity",
@@ -222,12 +236,5 @@
     "title": "Views on Government Institutions",
     "section": "The middle class pays attention to government, and their views are responsive",
     "text": "The middle class pays attention to government, and their views are responsive\n\n\n\n\n\n\nThe visualization above illustrates how various factors influence whether middle class Indonesians believe the country is on the right track. The y-axis shows the percentage increase or decrease in probability of a middle class person thinking Indonesia’s policy is on the right track associated with each factor.\nThe statistical model takes the form:\n\\[\\text{logit}(P(\\text{right\\_track} = 1)) = \\beta_{\\text{predictor}} \\cdot \\text{predictor} + \\alpha_i + \\varepsilon\\]\nWhere:\n\nright_track is a binary indicator (0/1) for whether a respondent thinks Indonesia is on the right track\npredictor is each binary indicator for various conditions or beliefs\n\\(\\alpha_i\\) represents household fixed effects\nModels are estimated using conditional logistic regression\n\nThe y-axis values represent the percentage increase in the probability associated with each factor, calculated as:\n\\[\\text{Percentage Increase} = (\\exp(\\beta_{\\text{predictor}}) - 1) \\times 100\\%\\]\nFor example, a value of 241% for “Government is doing well on corruption” means that middle class individuals who believe the government is performing well on anti-corruption efforts are 241% more likely to think the country is on the right track. Conversely, negative values indicate factors that decrease this probability.\nThis analysis reveals that perceptions of government performance on issues like corruption, fair elections, economic performance, and digital services are strongly associated with overall satisfaction with the country’s direction. Interestingly, factors like air pollution concerns and personal economic conditions also play significant roles in shaping middle class views on national progress."
-  },
-  {
-    "objectID": "incomes/incomes_01.html#financial-support-programs",
-    "href": "incomes/incomes_01.html#financial-support-programs",
-    "title": "Income sources",
-    "section": "Financial Support Programs",
-    "text": "Financial Support Programs\nOnly data from the last 1 month is used (March 2025) for these analyses."
   }
 ]
