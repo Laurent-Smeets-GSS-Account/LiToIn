@@ -1,268 +1,431 @@
 [
   {
-    "objectID": "views/views_02.html",
-    "href": "views/views_02.html",
-    "title": "Taxation Preferences",
-    "section": "",
-    "text": "Only data from the last 12 months is used (April 2024 to March 2025) for these analyses.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in Taxation Preferences Analysis Paired Tax Comparisons\n\ntax2_1/tax21: First set of paired tax options and respondent choice\ntax2_2/tax22: Second set of paired tax options and respondent choice\ntax2_3/tax23: Third set of paired tax options and respondent choice\n\nTax Types Included in Comparisons Tax options coded as letters (a-m) representing:\n\nConsumption (VAT)\nPersonal income tax\nCorporate income tax\nLocal tax\nTax on imports (tariffs)\nSocial tax/contributions in payroll\nTax on land value\nFinancial transaction tax\nTax on cigarettes\nTax on sugar\nTax on alcohol\nTax on single use plastic\nTax on pollution/greenhouse gases\n\nAnalysis Metrics\n\nwin_rate: Percentage of times a tax option was chosen when presented\npairwise comparisons: Direct head-to-head preferences between tax types"
-  },
-  {
-    "objectID": "subjective_poverty/subjective_poverty_02.html#individual-characteristics-by-self-reported-class",
-    "href": "subjective_poverty/subjective_poverty_02.html#individual-characteristics-by-self-reported-class",
-    "title": "Poverty: Self Classification",
-    "section": "Individual characteristics by self-reported class",
-    "text": "Individual characteristics by self-reported class"
-  },
-  {
-    "objectID": "subjective_poverty/subjective_poverty_02.html#limited-predictability-of-income-and-low-resilience",
-    "href": "subjective_poverty/subjective_poverty_02.html#limited-predictability-of-income-and-low-resilience",
-    "title": "Poverty: Self Classification",
-    "section": "Limited predictability of income and low resilience",
-    "text": "Limited predictability of income and low resilience"
-  },
-  {
-    "objectID": "subjective_poverty/subjective_poverty_02.html#for-low-income-people-uncertainty-and-risk-of-poverty-are-high-leading-to-costly-coping-strategies",
-    "href": "subjective_poverty/subjective_poverty_02.html#for-low-income-people-uncertainty-and-risk-of-poverty-are-high-leading-to-costly-coping-strategies",
-    "title": "Poverty: Self Classification",
-    "section": "For low-income people, uncertainty and risk of poverty are high, leading to costly coping strategies",
-    "text": "For low-income people, uncertainty and risk of poverty are high, leading to costly coping strategies"
-  },
-  {
-    "objectID": "subjective_poverty/subjective_poverty_02.html#self-perception-of-poverty-key-determinants",
-    "href": "subjective_poverty/subjective_poverty_02.html#self-perception-of-poverty-key-determinants",
-    "title": "Poverty: Self Classification",
-    "section": "Self-Perception of Poverty: Key Determinants",
-    "text": "Self-Perception of Poverty: Key Determinants\nOnly data from the last 12 months is used (April 2024 to March 2025) for this analysis\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in Self-Classification Analysis Self-Classification Measures\n\nwb32: Self-reported economic class (1=Extreme poor to 5=Rich)\nwb33: Expected economic class in 5 years (same scale)\nvw23: Self-identifies as poor (Yes/No binary)\nclean_class: Derived variable categorizing into “Poor”, “Lower middle class”, “Upper middle class”\nself_poor: Binary indicator for self-identified poverty\n\nIncome and Financial Resilience\n\npc_inc_real_spadef: Real per capita income (inflation-adjusted)\nsv30: Ability to pay emergency expense of 300,000 Rupiah\nquint: Income quintile (1=Poorest to 5=Richest)\n\nIndividual Characteristics\n\nlooking_work: Currently looking for work\npart_time: Works part-time\ndisability: Has disability\n\nFinancial Hardship Indicators\n\nwb5: Ability to pay utilities\nwb6: Borrowed money for basic needs\nwb7: Used savings for basic needs\nwb8: Sold assets for basic needs\nwb1/wb2: Financial wellbeing compared to last/next month\nsv3: Ability to save money\nforgo_health: Foregone healthcare due to cost\n\nHousehold Challenges\n\nsh1/sh4/sh5: Water/electricity disruptions\nsh12/sh14: Internet disruptions\nsh16: Children missed school\nsh21_a-f: Major life events (birth, illness, injury, death)\nwb12: Household sickness\nmaj_illInj: Major illness or injury in household\n\nFood Security Measures\n\ntotfoodinsec: Food insecurity index\nIndividual food insecurity indicators: worried, unhealthy, low_diversity, skip_meal, eat_less, ran_out, went_hungry, whole_day\n\nEconomic Perceptions\n\nwb14: Local economic conditions perception\nvw9/vw10: Job market and business climate perceptions\nvw13: Economic optimism/pessimism"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Introduction",
-    "section": "",
-    "text": "The Listening to Indonesia is the World Bank analytical program to track household welfare, economic conditions, and public sentiment through regular panel surveys across the country. In the first stage, we visit 500 communities across the country, oversampling from households with small enterprises. Next, we randomly select four households from each community to participate in the monthly panel. We interview the same households every month, replacing if needed from the same community if a household drops."
-  },
-  {
-    "objectID": "index.html#listening-to-indonesia",
-    "href": "index.html#listening-to-indonesia",
-    "title": "Introduction",
-    "section": "",
-    "text": "The Listening to Indonesia is the World Bank analytical program to track household welfare, economic conditions, and public sentiment through regular panel surveys across the country. In the first stage, we visit 500 communities across the country, oversampling from households with small enterprises. Next, we randomly select four households from each community to participate in the monthly panel. We interview the same households every month, replacing if needed from the same community if a household drops."
-  },
-  {
-    "objectID": "index.html#what-is-listening-to-indonesia",
-    "href": "index.html#what-is-listening-to-indonesia",
-    "title": "Introduction",
-    "section": "What is Listening to Indonesia?",
-    "text": "What is Listening to Indonesia?\n\nNationally representative survey on social and economic wellbeing every month\nMeasuring impact of policy or reforms, with a very short lag\nBlends welfare monitoring with polling questions, focused on the drivers of change\nInterviews with people from all walks of life, regions, rural and urban areas"
-  },
-  {
-    "objectID": "incomes/incomes_01.html",
-    "href": "incomes/incomes_01.html",
-    "title": "Income sources",
-    "section": "",
-    "text": "Only data from the last 12 months is used (April 2024 to March 2025) for this analysis"
-  },
-  {
-    "objectID": "incomes/incomes_01.html#minimum-wage-perceptions",
-    "href": "incomes/incomes_01.html#minimum-wage-perceptions",
-    "title": "Income sources",
-    "section": "Minimum Wage Perceptions",
-    "text": "Minimum Wage Perceptions"
-  },
-  {
-    "objectID": "incomes/incomes_01.html#financial-support-programs",
-    "href": "incomes/incomes_01.html#financial-support-programs",
-    "title": "Income sources",
-    "section": "Financial Support Programs",
-    "text": "Financial Support Programs\nOnly data from the last 1 month is used (March 2025) for these analyses.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in Income Sources Analysis Employment Status\n\nac1: Work for pay/profit/gain in past 7 days (Yes/No)\nclean_class: Socioeconomic classification (Poor, Lower middle class, Upper middle class)\n\nIncome Composition\n\nwage_incshare: Percentage of income from wages\nse_incshare: Percentage of income from self-employment\nag_incshare: Percentage of income from agriculture\nsa_incshare: Percentage of income from social assistance\nrem_incshare: Percentage of income from remittances\npens_incshare: Percentage of income from pensions\noth_incshare: Percentage of income from other sources\n\nMinimum Wage Perceptions\n\nvw43_idr: Respondent’s perception of current minimum wage\nmw2023: Actual minimum wage\ndiff_minwage: Difference between perceived and actual minimum wage\nvw42: Whether employers pay minimum wage (perception)\nvw44: Opinion on whether minimum wage should be higher\n\nSocial Protection Receipt\n\ninc1: Household received pension/retirement benefits\ninc4: Household received social assistance/insurance\ninc5A-inc5V: Sources of social assistance (government transfers, NGOs, religious institutions, etc.)\n\nDemographic Grouping\n\nquint: Income quintile (1=Poorest to 5=Richest)\npopw: Population weight for representative statistics"
-  },
-  {
-    "objectID": "food_insecurity/food_insec_3.html",
-    "href": "food_insecurity/food_insec_3.html",
-    "title": "Food Insecurity within households",
-    "section": "",
-    "text": "These sankey diagrams show the change over time of various FIES indicators."
-  },
-  {
-    "objectID": "food_insecurity/food_insec_1.html",
-    "href": "food_insecurity/food_insec_1.html",
-    "title": "Food Insecurity",
-    "section": "",
-    "text": "Summary of Food Inscurity\n\nFies Indicators over time\nThis chart displays the levels of food insecurity in Indonesia from April 2024 to March 2025, highlighting a general downward trend across all FIES (Food Insecurity Experience Scale) indicators, with milder concerns like “worried about not having enough food” remaining most prevalent, while severe experiences such as “went without eating for a whole day” affected the smallest portion of the population.\n\n\n\n\n\n\n\n\nDistribution of number of FIES deprivations\nIndonesia’s FIES deprivation data reveals that a majority of the population experiences zero food insecurity indicators, with percentages steadily declining as severity increases, demonstrating that food insecurity follows a clear gradient with most citizens experiencing either none or few food challenges.\n\nStep chartArea chart by count\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRegional comparison for latest month\nRegional food insecurity patterns across Indonesia’s major islands display distinct variations, with Nusa Tenggara and Maluku showing larger footprints suggesting more severe challenges, while Kalimantan and Papua exhibit more compact profiles indicating potentially fewer or less intense food security issues across measured dimensions.\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in Food Insecurity and Inflation Analysis\nFood Insecurity Measures (FIES)\n\ntotfoodinsec: Total food insecurity score Individual FIES indicators:\nworried: Worried about not having enough food\nunhealthy: Unable to eat healthy/nutritious foods\nlow_diversity: Limited variety in diet\nskip_meal: Skipped meals\neat_less: Ate less than should have\nran_out: Ran out of food\nwent_hungry: Went hungry\nwhole_day: Went whole day without eating\n\nPrice and Inflation Variables\n\nCPI: Regional inflation measure\npdef3: Spatial deflator/local cost of living index\nloc_cost_quint: Location cost quintiles (1-5)\n\nSocioeconomic Variables\n\nln_pc_def_inc: Log of per capita deflated income\nquint: Income quintile (1=Poorest to 5=Richest)\nhhag: Agricultural household indicator\npopw: Population weight for representative statistics"
-  },
-  {
-    "objectID": "finance/finance_02.html",
-    "href": "finance/finance_02.html",
-    "title": "Cost of Living",
-    "section": "",
-    "text": "The richest quintile consistently buys more and pays more for food items."
-  },
-  {
-    "objectID": "finance/finance_02.html#cost-of-food-items",
-    "href": "finance/finance_02.html#cost-of-food-items",
-    "title": "Cost of Living",
-    "section": "",
-    "text": "The richest quintile consistently buys more and pays more for food items."
-  },
-  {
-    "objectID": "finance/finance_02.html#subjective-increase-of-prices",
-    "href": "finance/finance_02.html#subjective-increase-of-prices",
-    "title": "Cost of Living",
-    "section": "Subjective increase of prices",
-    "text": "Subjective increase of prices\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in the Cost of Living Analysis Food Prices and Consumption\n\nwb16/wb17: Rice quantity purchased (kg) and price paid\nwb18/wb19: Chicken quantity purchased (kg) and price paid\nwb20/wb21: Eggs quantity purchased and price paid\n\nPrice Perceptions and Inflation\n\nvw5: Agreement with statement “Prices for sembako (9 essential commodities) rose too fast over the PAST 30 DAYS”\nsv28: Subjective inflation perception (whether prices rose faster than usual, at typical pace, or slower)\n\nFinancial Resilience\n\nsv30: Ability to pay emergency expense of 300,000 Rupiah using available resources\n\nGrouping Variables\n\nquint: Household wealth quintile (from poorest to richest)\nregion: Geographic region within Indonesia\ndate: Time period of observation"
-  },
-  {
-    "objectID": "basic_services/basic_services_02.html",
-    "href": "basic_services/basic_services_02.html",
-    "title": "Water",
-    "section": "",
-    "text": "Only data from the last 12 months is used (April 2024 to March 2025) for this analysis."
-  },
-  {
-    "objectID": "basic_services/basic_services_02.html#percentage-of-households-with-water-supply-disruption-in-the-past-30-days",
-    "href": "basic_services/basic_services_02.html#percentage-of-households-with-water-supply-disruption-in-the-past-30-days",
-    "title": "Water",
-    "section": "",
-    "text": "Only data from the last 12 months is used (April 2024 to March 2025) for this analysis."
-  },
-  {
-    "objectID": "basic_services/basic_services_02.html#alternative-water-sources-during-disruptions",
-    "href": "basic_services/basic_services_02.html#alternative-water-sources-during-disruptions",
-    "title": "Water",
-    "section": "Alternative Water Sources During Disruptions",
-    "text": "Alternative Water Sources During Disruptions\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in Water Supply Analysis Water Disruption Indicators\n\nsh1: Whether household had unexpected disruption in drinking water supply in past 30 days (Yes/No)\nsh2: Number of days with water supply disruption in past 30 days\nsh3: Main alternative water source during disruption (categorical: piped water, well, bottled water, etc.)\n\nWater Access and Quality Concerns\n\nwat_all: Days without enough water for household needs\nwat1: Days worried about not having enough water\nwat2: Days clothes couldn’t be washed due to water problems\nwat3: Days with schedule changes due to water problems\nwat4: Days with diet changes due to water problems\nwat5: Days without handwashing after dirty activities\nwat6: Days without body washing due to water problems\nwat7: Days without enough drinking water\nwat8: Frequency of anger about water situation\nwat9: Days gone to sleep thirsty due to lack of water\nwat10: Days with no useable/drinkable water whatsoever\nwat11: Frequency of feeling ashamed/excluded due to water problems\n\nDemographic and Geographic Variables\n\nquint: Income quintile (1=Poorest to 5=Richest)\nregion: Geographic region within Indonesia\npopw: Population weight for representative statistics\ndate: Time period of observation"
-  },
-  {
-    "objectID": "analyse_data/analyse_data_01.html",
-    "href": "analyse_data/analyse_data_01.html",
-    "title": "Data crosstabulations",
-    "section": "",
-    "text": "Please visit: https://datanalytics.worldbank.org/indo_survey_analyse/ for access to the interactive data crosstabulation tool where you can explore survey relationships, create custom tables, generate visualizations, and export analysis results. We are working on embedding this into the tool itself\n\n\n\nFull Screen"
-  },
-  {
-    "objectID": "basic_services/basic_services_01.html#corrrelation-between-different-questions-about-electricity",
-    "href": "basic_services/basic_services_01.html#corrrelation-between-different-questions-about-electricity",
-    "title": "Electricity",
-    "section": "Corrrelation between different questions about electricity",
-    "text": "Corrrelation between different questions about electricity\nThere is a clear correlation between perceptions of electricity service quality as a serious problem and support for increased tariffs to improve quality, suggesting that consumers who recognize service problems are more willing to pay higher rates for improvements.\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in Electricity Analysis Electricity Availability\n\nsh4: Hours of electricity available for household yesterday\nsh5: Hours of electricity available for household the day before yesterday\nsh7: Number of days the last electricity payment covered\n\nElectricity Perceptions and Policy Preferences\n\nvw1: “The electricity tariff my household pays is too high” (Agree/Disagree)\nvw31: “Electricity tariffs should be increased to improve service quality” (Agree/Disagree)\nvw35: “Electricity service quality is a serious problem for my household” (Agree/Disagree)\nvw_sub1: “Government subsidies for electricity and fuel are appropriately targeted to the consumers who need them” (Agree/Disagree)\n\nDemographic and Time Variables\n\ndate: Time period of observation\npopw: Population weight for representative statistics"
-  },
-  {
-    "objectID": "finance/finance_01.html",
-    "href": "finance/finance_01.html",
-    "title": "Borrowing and Saving",
-    "section": "",
-    "text": "Only data from the last 12 months is used (April 2024 to March 2025) for these analyses."
-  },
-  {
-    "objectID": "finance/finance_01.html#financial-security",
-    "href": "finance/finance_01.html#financial-security",
-    "title": "Borrowing and Saving",
-    "section": "",
-    "text": "Only data from the last 12 months is used (April 2024 to March 2025) for these analyses."
-  },
-  {
-    "objectID": "finance/finance_01.html#digital-divide-and-infrastructure-challenges",
-    "href": "finance/finance_01.html#digital-divide-and-infrastructure-challenges",
-    "title": "Borrowing and Saving",
-    "section": "Digital Divide and Infrastructure Challenges",
-    "text": "Digital Divide and Infrastructure Challenges\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in the Borrowing and Saving Analysis Savings Methods and Behavior\n\nsv3: Ability to save for the future over the past 30 days (Yes/No)\nsv4: Amount saved in the past 30 days\nsv5A-sv5V: Forms of savings (indicators for different methods)\n\nBank account (sv5A)\nE-wallet (sv5B)-\nCash at home (sv5C)\nGroup savings (sv5D) I\nnvestments/Other (sv5E/sv5V)\n\n\nBorrowing Behavior\n\nsv12: Applied for credit or loan in the past 30 days (Yes/No)\nwb32: Subjective household economic class self-identification\n\nContextual Variables\n\nquint: Household wealth quintile (from poorest to richest)\ndate: Time period of observation\ninfl: Inflation measure used to calculate real savings"
-  },
-  {
-    "objectID": "finance/finance_03.html#business-owners",
-    "href": "finance/finance_03.html#business-owners",
-    "title": "Account use and borrowing",
-    "section": "Business owners",
-    "text": "Business owners\nHouseholds that ‘received any self employment or business income for the LAST 30 DAYS’ are more likely to save for the future.\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in the Analysis Plot 1: Banking, Mobile Money, and Credit Usage Across Household Quintiles Financial Service Access:\n\nsv1: Formal bank account usage\nsv2: Mobile money/e-wallet service usage\nsv7: Plastic payment/bank card ownership\nsv9: QRIS transaction usage\nsv44: New account openings\n\nBorrowing and Credit:\n\nsv12: Loan/credit applications\nsv19: Outstanding loans/credit\nwb6: Borrowing for basic needs\n\nAttitudes Toward Credit:\n\nsv40: Willingness to borrow at lower interest rates\nsv41: Trust in lenders\nsv42: Current need for borrowing\n\nPlot 2: Financial Behaviors by Business/Self-Employment Income Key Variables:\n\ninc12: Self-employment/business income indicator\nsv1: Formal bank account usage\nsv2: Mobile money/e-wallet service usage\nsv9: QRIS transaction usage\nsv12: Loan/credit applications\nsv19: Outstanding loans/credit\nsv3: Ability to save for the future"
-  },
-  {
     "objectID": "food_insecurity/food_insec_2.html",
     "href": "food_insecurity/food_insec_2.html",
     "title": "Relationship between Inflation and Food Insecurity",
     "section": "",
-    "text": "Analysis of Indonesian household data reveals a significant correlation between rising food prices (Inflation) and increased FIES indicators, both within and between regions\n\n\n\n\n\n\n\n\n\n\n\n\nOnly data from the last 12 months is used (April 2024 to March 2025) for these analyses.\n\n\n\n\n\n\nThe visualization above illustrates how local cost of living affects food insecurity, controlling for household income. The y-axis shows the percentage increase in risk of experiencing each food insecurity outcome associated with a one-unit increase in the local cost of living index.\nThe statistical model takes the form:\n\\[\\text{logit}(P(\\text{food\\_insecurity\\_measure} = 1)) = \\beta_0 + \\beta_1 \\cdot \\text{ln\\_pc\\_def\\_inc} + \\beta_2 \\cdot \\text{pdef3} + \\varepsilon\\]\nWhere:\n\nfood_insecurity_measure is a binary indicator (0/1) for each food insecurity outcome\nln_pc_def_inc is the log of per capita deflated income (controlling for household resources)\npdef3 is the local cost of living index derived from Susenas data\nStandard errors are clustered at the household level\n\nThe y-axis values represent the percentage increase in the probability of experiencing food insecurity, calculated as:\n\\[\\text{Percentage Increase} = (\\exp(\\beta_2) - 1) \\times 100\\%\\]\nFor example, a value of 350% for “Whole day without food” means that a one-unit increase in the local cost of living index is associated with a 3.5 times higher probability of going a whole day without food, after controlling for income. In other words, households in areas with higher costs of living are substantially more likely to experience severe food insecurity, even when comparing households with similar income levels.\n\n\nTo test this relationship a conditional logistic regression model is used, implemented through the survival::clogit function, which incorporates fixed effects by stratifying observations within groups. This approach is complemented by a linear fixed effects regression model using fixest::feols, allowing for comparison between binary and continuous outcome specifications while controlling for time-invariant unobserved heterogeneity.\n\n\n\nLinear modelLogit model\n\n\n\n\n\n\n\n\n  Household Fixed Effects Linear Models\n  \n    \n      Household Fixed Effects Linear Models\n    \n    \n    \n       \n      \n        Food Insecurity Outcomes\n      \n    \n    \n      Worried\n      Unhealthy\n      Low Diversity\n      Skip Meal\n      Eat Less\n      Ran Out\n      Went Hungry\n      Whole Day\n      Totfoodinsec\n    \n  \n  \n    Consumer Price Index\n0.017** (0.007)\n0.031*** (0.007)\n0.016** (0.007)\n0.008 (0.005)\n0.009 (0.006)\n0.017*** (0.006)\n0.011** (0.005)\n0.002 (0.003)\n0.105*** (0.030)\n    Num.Obs.\n12407\n12405\n12405\n12402\n12402\n12401\n12400\n12400\n12457\n  \n  \n    \n      * p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n    \n    \n      Standard errors clustered at household level\n    \n  \n  \n\n\n\n\n\n\n\n\n\nEffect of Consumer Price Index (CPI) on Food Insecurity: Household Fixed Effects Logistic Models\n\n\nFood Insecurity Measure\nOdds Ratio (95% CI)\nStd. Error\n\n\n\n\nWorried about food\n1.15** (1.02-1.30)\n0.062\n\n\nUnable to eat healthy\n1.33*** (1.17-1.51)\n0.065\n\n\nLow food diversity\n1.15** (1.01-1.30)\n0.063\n\n\nSkipped meals\n1.12 (0.95-1.31)\n0.083\n\n\nAte less than needed\n1.11 (0.96-1.28)\n0.074\n\n\nRan out of food\n1.28*** (1.09-1.50)\n0.082\n\n\nWent hungry\n1.24** (1.03-1.50)\n0.096\n\n\nWhole day without food\n1.09 (0.83-1.43)\n0.140\n\n\nTotal food insecurity\n1.07 (0.91-1.26)\n0.083\n\n\n\n* * p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n\n\n\n\n† Odds ratios represent the effect of a one-unit increase in CPI on the likelihood of experiencing each food insecurity outcome\n\n\n\n\n‡ Standard errors are robust and clustered at household level\n\n\n\n\n§ Models estimated using conditional logistic regression (clogit)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThese regression models show the relationship between income and the different FIES components, revealing how economic factors such as household income, local food costs, and agricultural participation influence various dimensions of food insecurity. The analysis examines eight distinct food insecurity indicators—from worrying about food to going whole days without eating—and explores how these experiences vary across income quintiles and local food cost distributions. By regressing each food insecurity measure against per capita income, local food prices, and agricultural household status, we can identify which economic factors most strongly predict different manifestations of food insecurity in Indonesia.\n\n\n\\[\n\\begin{align}\n\\text{Model 1: } & y_i = \\beta_0 + \\beta_1 \\text{pdef3}_i + \\varepsilon_i \\\\\n\\text{Model 2: } & y_i = \\beta_0 + \\sum_{j=1}^{4} \\beta_j \\mathbb{1}(\\text{loc\\_cost\\_quint}_i = j+1) + \\varepsilon_i \\\\\n\\text{Model 3: } & y_i = \\beta_0 + \\beta_1 \\text{ln\\_pc\\_def\\_inc}_i + \\beta_2 \\text{pdef3}_i + \\varepsilon_i \\\\\n\\text{Model 4: } & y_i = \\beta_0 + \\beta_1 \\text{hhag}_i + \\beta_2 \\text{ln\\_pc\\_def\\_inc}_i + \\beta_3 \\text{pdef3}_i + \\varepsilon_i\\\\\n\\text{Model 5a: } & \\log\\left(\\frac{P(y_i=1)}{1-P(y_i=1)}\\right) = \\beta_0 + \\beta_1 \\text{ln\\_pc\\_def\\_inc}_i + \\beta_2 \\text{pdef3}_i \\\\\n\\text{Model 5b: } & \\log(E(y_i)) = \\beta_0 + \\beta_1 \\text{ln\\_pc\\_def\\_inc}_i + \\beta_2 \\text{pdef3}_i\n\\end{align}\n\\]\n\\[\\text{where } y_i \\text{ represents household-level FIES (Food Insecurity Experience Scale) outcomes}\\] \\[\\text{Model 5a is used for binary outcomes and Model 5b for count data (when totfoodinsec &gt; 1)}\\]\n\n\n\n\\[\n\\begin{align}\n\\text{Model 1: } & \\beta_0 = \\text{Constant} \\\\\n& \\beta_1 = \\text{Spatial deflator} \\\\\n\\\\\n\\text{Model 2: } & \\beta_0 = \\text{Constant} \\\\\n& \\beta_1 = \\text{Location cost quintile 2} \\\\\n& \\beta_2 = \\text{Location cost quintile 3} \\\\\n& \\beta_3 = \\text{Location cost quintile 4} \\\\\n& \\beta_4 = \\text{Location cost quintile 5} \\\\\n\\\\\n\\text{Model 3: } & \\beta_0 = \\text{Constant} \\\\\n& \\beta_1 = \\text{Log per-capita income} \\\\\n& \\beta_2 = \\text{Spatial deflator} \\\\\n\\\\\n\\text{Model 4: } & \\beta_0 = \\text{Constant} \\\\\n& \\beta_1 = \\text{Agricultural household} \\\\\n& \\beta_2 = \\text{Log per-capita income} \\\\\n& \\beta_3 = \\text{Spatial deflator} \\\\\n\\\\\n\\text{Model 5a/5b: } & \\beta_0 = \\text{Constant} \\\\\n& \\beta_1 = \\text{Log per-capita income} \\\\\n& \\beta_2 = \\text{Spatial deflator}\n\\end{align}\n\\]\n\\[\\text{Note: All models are weighted using population weights (popw) to ensure representativeness.}\\] \\[\\text{All models use heteroskedasticity-consistent standard errors}\\]\n\n\n\n\nmodel 1model 2model 3model 4model 5\n\n\n\n\n\nComparison of m1 across different food insecurity outcomes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFood Insecurity Outcomes\n\n\n\n\nWorried\nUnhealthy\nLow Diversity\nSkip Meal\nEat Less\nRan Out\nWent Hungry\nWhole Day\nTotfoodinsec\n\n\n\n\nConstant\n0.164*** (0.036)\n0.030 (0.029)\n0.100*** (0.033)\n0.003 (0.020)\n0.018 (0.025)\n−0.026 (0.021)\n−0.045*** (0.016)\n−0.049*** (0.009)\n0.201 (0.137)\n\n\nSpatial deflator\n0.144*** (0.038)\n0.165*** (0.030)\n0.157*** (0.034)\n0.087*** (0.021)\n0.125*** (0.027)\n0.133*** (0.023)\n0.113*** (0.017)\n0.075*** (0.011)\n0.988*** (0.147)\n\n\nNum.Obs.\n14819\n14817\n14817\n14813\n14813\n14812\n14811\n14811\n14872\n\n\nR2\n0.002\n0.004\n0.003\n0.002\n0.003\n0.004\n0.004\n0.005\n0.005\n\n\nR2 Adj.\n0.002\n0.004\n0.003\n0.002\n0.003\n0.004\n0.004\n0.005\n0.005\n\n\n\n * p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nComparison of m2 across different food insecurity outcomes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFood Insecurity Outcomes\n\n\n\n\nWorried\nUnhealthy\nLow Diversity\nSkip Meal\nEat Less\nRan Out\nWent Hungry\nWhole Day\nTotfoodinsec\n\n\n\n\nConstant\n0.241*** (0.012)\n0.145*** (0.010)\n0.191*** (0.011)\n0.073*** (0.007)\n0.105*** (0.008)\n0.066*** (0.006)\n0.031*** (0.004)\n0.008*** (0.002)\n0.860*** (0.044)\n\n\nLocation cost quintile 2\n0.084*** (0.019)\n0.035** (0.015)\n0.082*** (0.017)\n0.002 (0.010)\n0.031** (0.013)\n0.027*** (0.010)\n0.021*** (0.007)\n0.007* (0.003)\n0.288*** (0.067)\n\n\nLocation cost quintile 3\n0.039** (0.017)\n0.018 (0.014)\n0.008 (0.015)\n−0.010 (0.009)\n−0.001 (0.012)\n0.013 (0.009)\n0.025*** (0.007)\n0.008*** (0.003)\n0.099 (0.063)\n\n\nLocation cost quintile 4\n0.082*** (0.019)\n0.070*** (0.016)\n0.103*** (0.018)\n0.032*** (0.012)\n0.069*** (0.015)\n0.066*** (0.013)\n0.059*** (0.011)\n0.018*** (0.006)\n0.492*** (0.084)\n\n\nLocation cost quintile 5\n0.090*** (0.018)\n0.074*** (0.014)\n0.087*** (0.016)\n0.032*** (0.010)\n0.053*** (0.013)\n0.063*** (0.011)\n0.051*** (0.008)\n0.034*** (0.005)\n0.481*** (0.070)\n\n\nNum.Obs.\n14819\n14817\n14817\n14813\n14813\n14812\n14811\n14811\n14872\n\n\nR2\n0.006\n0.006\n0.010\n0.004\n0.007\n0.008\n0.008\n0.007\n0.011\n\n\nR2 Adj.\n0.006\n0.005\n0.010\n0.004\n0.006\n0.007\n0.008\n0.007\n0.010\n\n\n\n * p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nComparison of m3 across different food insecurity outcomes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFood Insecurity Outcomes\n\n\n\n\nWorried\nUnhealthy\nLow Diversity\nSkip Meal\nEat Less\nRan Out\nWent Hungry\nWhole Day\nTotfoodinsec\n\n\n\n\nConstant\n1.325*** (0.100)\n1.089*** (0.084)\n1.108*** (0.092)\n0.568*** (0.056)\n0.804*** (0.073)\n0.506*** (0.056)\n0.343*** (0.044)\n0.138*** (0.024)\n5.853*** (0.398)\n\n\nSpatial deflator\n0.081** (0.038)\n0.107*** (0.031)\n0.102*** (0.035)\n0.056*** (0.021)\n0.083*** (0.027)\n0.104*** (0.023)\n0.092*** (0.017)\n0.065*** (0.010)\n0.681*** (0.146)\n\n\nLog per-capita income\n−0.082*** (0.006)\n−0.075*** (0.005)\n−0.071*** (0.006)\n−0.040*** (0.004)\n−0.055*** (0.005)\n−0.038*** (0.004)\n−0.027*** (0.003)\n−0.013*** (0.002)\n−0.399*** (0.027)\n\n\nNum.Obs.\n14808\n14806\n14806\n14802\n14802\n14801\n14800\n14800\n14861\n\n\nR2\n0.033\n0.039\n0.029\n0.022\n0.028\n0.019\n0.017\n0.014\n0.047\n\n\nR2 Adj.\n0.033\n0.039\n0.029\n0.022\n0.028\n0.019\n0.017\n0.014\n0.047\n\n\n\n * p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nComparison of m4 across different food insecurity outcomes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFood Insecurity Outcomes\n\n\n\n\nWorried\nUnhealthy\nLow Diversity\nSkip Meal\nEat Less\nRan Out\nWent Hungry\nWhole Day\nTotfoodinsec\n\n\n\n\nConstant\n1.318*** (0.100)\n1.092*** (0.085)\n1.108*** (0.093)\n0.577*** (0.057)\n0.821*** (0.074)\n0.516*** (0.057)\n0.343*** (0.044)\n0.133*** (0.024)\n5.877*** (0.403)\n\n\nSpatial deflator\n0.084** (0.038)\n0.106*** (0.031)\n0.102*** (0.035)\n0.052** (0.021)\n0.074*** (0.027)\n0.099*** (0.022)\n0.092*** (0.017)\n0.067*** (0.010)\n0.669*** (0.147)\n\n\nLog per-capita income\n−0.082*** (0.006)\n−0.075*** (0.005)\n−0.071*** (0.006)\n−0.040*** (0.004)\n−0.056*** (0.005)\n−0.038*** (0.004)\n−0.027*** (0.003)\n−0.013*** (0.002)\n−0.399*** (0.027)\n\n\nAgricultural household\n0.010 (0.014)\n−0.004 (0.011)\n0.001 (0.013)\n−0.013* (0.007)\n−0.024*** (0.009)\n−0.014* (0.008)\n−0.001 (0.006)\n0.006* (0.004)\n−0.035 (0.051)\n\n\nNum.Obs.\n14808\n14806\n14806\n14802\n14802\n14801\n14800\n14800\n14861\n\n\nR2\n0.033\n0.040\n0.029\n0.022\n0.029\n0.019\n0.017\n0.014\n0.047\n\n\nR2 Adj.\n0.033\n0.039\n0.029\n0.022\n0.029\n0.019\n0.017\n0.014\n0.047\n\n\n\n * p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLogistic and Poisson Regression Models for Food Insecurity Measures\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFood Insecurity Outcomes\n\n\n\n\nWorried\nUnhealthy\nLow Diversity\nSkip Meal\nEat Less\nRan Out\nWent Hungry\nWhole Day\nTotfoodinsec\n\n\n\n\nConstant\n4.213*** (0.620)\n4.507*** (0.661)\n4.383*** (0.642)\n3.063*** (0.806)\n3.991*** (0.752)\n3.285*** (0.783)\n2.696*** (0.903)\n2.549** (1.226)\n4.211*** (0.438)\n\n\nSpatial deflator\n0.038 (0.188)\n0.560*** (0.184)\n0.207 (0.193)\n0.526** (0.218)\n0.435** (0.209)\n0.508** (0.212)\n0.918*** (0.216)\n1.358*** (0.250)\n0.311** (0.126)\n\n\nLog per-capita income\n−0.374*** (0.042)\n−0.476*** (0.046)\n−0.417*** (0.044)\n−0.432*** (0.058)\n−0.462*** (0.053)\n−0.440*** (0.056)\n−0.462*** (0.067)\n−0.567*** (0.094)\n−0.322*** (0.031)\n\n\nNum.Obs.\n14808\n14806\n14806\n14802\n14802\n14801\n14800\n14800\n14861\n\n\n\n * p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlinear models (FIES indicators)linear models (Total food insecurity score)logit models\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in Food Insecurity and Inflation Analysis\nFood Insecurity Measures (FIES)\n\ntotfoodinsec: Total food insecurity score Individual FIES indicators:\nworried: Worried about not having enough food\nunhealthy: Unable to eat healthy/nutritious foods\nlow_diversity: Limited variety in diet\nskip_meal: Skipped meals\neat_less: Ate less than should have\nran_out: Ran out of food\nwent_hungry: Went hungry\nwhole_day: Went whole day without eating\n\nPrice and Inflation Variables\n\nCPI: Regional inflation measure\npdef3: Spatial deflator/local cost of living index\nloc_cost_quint: Location cost quintiles (1-5)\n\nSocioeconomic Variables\n\nln_pc_def_inc: Log of per capita deflated income\nquint: Income quintile (1=Poorest to 5=Richest)\nhhag: Agricultural household indicator\npopw: Population weight for representative statistics"
+    "text": "Analysis of Indonesian household data reveals a significant correlation between rising food prices (Inflation) and increased FIES indicators, both within and between regions\n\n\n\n\n\n\n\n\n\n\n\n\nOnly data from the last 12 months is used (May 2024 to April 2025) for these analyses.\n\n\n\n\n\n\nThe visualization above illustrates how local cost of living affects food insecurity, controlling for household income. The y-axis shows the percentage increase in risk of experiencing each food insecurity outcome associated with a one-unit increase in the local cost of living index.\nThe statistical model takes the form:\n\\[\\text{logit}(P(\\text{food\\_insecurity\\_measure} = 1)) = \\beta_0 + \\beta_1 \\cdot \\text{ln\\_pc\\_def\\_inc} + \\beta_2 \\cdot \\text{pdef3} + \\varepsilon\\]\nWhere:\n\nfood_insecurity_measure is a binary indicator (0/1) for each food insecurity outcome\nln_pc_def_inc is the log of per capita deflated income (controlling for household resources)\npdef3 is the local cost of living index derived from Susenas data\nStandard errors are clustered at the household level\n\nThe y-axis values represent the percentage increase in the probability of experiencing food insecurity, calculated as:\n\\[\\text{Percentage Increase} = (\\exp(\\beta_2) - 1) \\times 100\\%\\]\nFor example, a value of 350% for “Whole day without food” means that a one-unit increase in the local cost of living index is associated with a 3.5 times higher probability of going a whole day without food, after controlling for income. In other words, households in areas with higher costs of living are substantially more likely to experience severe food insecurity, even when comparing households with similar income levels.\n\n\nTo test this relationship a conditional logistic regression model is used, implemented through the survival::clogit function, which incorporates fixed effects by stratifying observations within groups. This approach is complemented by a linear fixed effects regression model using fixest::feols, allowing for comparison between binary and continuous outcome specifications while controlling for time-invariant unobserved heterogeneity.\n\n\n\nLinear modelLogit model\n\n\n\n\n\n\n\n\nHousehold Fixed Effects Linear Models\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHousehold Fixed Effects Linear Models\n\n\n\n\nFood Insecurity Outcomes\n\n\n\nWorried\nUnhealthy\nLow Diversity\nSkip Meal\nEat Less\nRan Out\nWent Hungry\nWhole Day\nTotfoodinsec\n\n\n\n\nConsumer Price Index\n0.005 (0.007)\n0.013* (0.007)\n-0.004 (0.007)\n0.004 (0.005)\n-0.001 (0.006)\n0.008 (0.006)\n0.006 (0.005)\n0.001 (0.003)\n0.026 (0.027)\n\n\nNum.Obs.\n10795\n10793\n10793\n10790\n10790\n10789\n10788\n10788\n10843\n\n\n\n* p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n\n\nStandard errors clustered at household level\n\n\n\n\n\n\n\n\n\n\n\n\n\nEffect of Consumer Price Index (CPI) on Food Insecurity: Household Fixed Effects Logistic Models\n\n\nFood Insecurity Measure\nOdds Ratio (95% CI)\nStd. Error\n\n\n\n\nWorried about food\n1.05 (0.91-1.20)\n0.069\n\n\nUnable to eat healthy\n1.14* (0.99-1.32)\n0.073\n\n\nLow food diversity\n0.96 (0.83-1.10)\n0.072\n\n\nSkipped meals\n1.06 (0.88-1.28)\n0.095\n\n\nAte less than needed\n0.99 (0.84-1.17)\n0.085\n\n\nRan out of food\n1.15 (0.96-1.39)\n0.096\n\n\nWent hungry\n1.15 (0.93-1.43)\n0.111\n\n\nWhole day without food\n1.06 (0.77-1.46)\n0.162\n\n\nTotal food insecurity\n0.97 (0.81-1.15)\n0.090\n\n\n\n* * p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n\n\n\n\n† Odds ratios represent the effect of a one-unit increase in CPI on the likelihood of experiencing each food insecurity outcome\n\n\n\n\n‡ Standard errors are robust and clustered at household level\n\n\n\n\n§ Models estimated using conditional logistic regression (clogit)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThese regression models show the relationship between income and the different FIES components, revealing how economic factors such as household income, local food costs, and agricultural participation influence various dimensions of food insecurity. The analysis examines eight distinct food insecurity indicators—from worrying about food to going whole days without eating—and explores how these experiences vary across income quintiles and local food cost distributions. By regressing each food insecurity measure against per capita income, local food prices, and agricultural household status, we can identify which economic factors most strongly predict different manifestations of food insecurity in Indonesia.\n\n\n\\[\n\\begin{align}\n\\text{Model 1: } & y_i = \\beta_0 + \\beta_1 \\text{pdef3}_i + \\varepsilon_i \\\\\n\\text{Model 2: } & y_i = \\beta_0 + \\sum_{j=1}^{4} \\beta_j \\mathbb{1}(\\text{loc\\_cost\\_quint}_i = j+1) + \\varepsilon_i \\\\\n\\text{Model 3: } & y_i = \\beta_0 + \\beta_1 \\text{ln\\_pc\\_def\\_inc}_i + \\beta_2 \\text{pdef3}_i + \\varepsilon_i \\\\\n\\text{Model 4: } & y_i = \\beta_0 + \\beta_1 \\text{hhag}_i + \\beta_2 \\text{ln\\_pc\\_def\\_inc}_i + \\beta_3 \\text{pdef3}_i + \\varepsilon_i\\\\\n\\text{Model 5a: } & \\log\\left(\\frac{P(y_i=1)}{1-P(y_i=1)}\\right) = \\beta_0 + \\beta_1 \\text{ln\\_pc\\_def\\_inc}_i + \\beta_2 \\text{pdef3}_i \\\\\n\\text{Model 5b: } & \\log(E(y_i)) = \\beta_0 + \\beta_1 \\text{ln\\_pc\\_def\\_inc}_i + \\beta_2 \\text{pdef3}_i\n\\end{align}\n\\]\n\\[\\text{where } y_i \\text{ represents household-level FIES (Food Insecurity Experience Scale) outcomes}\\] \\[\\text{Model 5a is used for binary outcomes and Model 5b for count data (when totfoodinsec &gt; 1)}\\]\n\n\n\n\\[\n\\begin{align}\n\\text{Model 1: } & \\beta_0 = \\text{Constant} \\\\\n& \\beta_1 = \\text{Spatial deflator} \\\\\n\\\\\n\\text{Model 2: } & \\beta_0 = \\text{Constant} \\\\\n& \\beta_1 = \\text{Location cost quintile 2} \\\\\n& \\beta_2 = \\text{Location cost quintile 3} \\\\\n& \\beta_3 = \\text{Location cost quintile 4} \\\\\n& \\beta_4 = \\text{Location cost quintile 5} \\\\\n\\\\\n\\text{Model 3: } & \\beta_0 = \\text{Constant} \\\\\n& \\beta_1 = \\text{Log per-capita income} \\\\\n& \\beta_2 = \\text{Spatial deflator} \\\\\n\\\\\n\\text{Model 4: } & \\beta_0 = \\text{Constant} \\\\\n& \\beta_1 = \\text{Agricultural household} \\\\\n& \\beta_2 = \\text{Log per-capita income} \\\\\n& \\beta_3 = \\text{Spatial deflator} \\\\\n\\\\\n\\text{Model 5a/5b: } & \\beta_0 = \\text{Constant} \\\\\n& \\beta_1 = \\text{Log per-capita income} \\\\\n& \\beta_2 = \\text{Spatial deflator}\n\\end{align}\n\\]\n\\[\\text{Note: All models are weighted using population weights (popw) to ensure representativeness.}\\] \\[\\text{All models use heteroskedasticity-consistent standard errors}\\]\n\n\n\n\nmodel 1model 2model 3model 4model 5\n\n\n\n\n\nComparison of m1 across different food insecurity outcomes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFood Insecurity Outcomes\n\n\n\n\nWorried\nUnhealthy\nLow Diversity\nSkip Meal\nEat Less\nRan Out\nWent Hungry\nWhole Day\nTotfoodinsec\n\n\n\n\nConstant\n0.148*** (0.036)\n0.025 (0.028)\n0.104*** (0.032)\n−0.001 (0.019)\n0.027 (0.024)\n−0.036* (0.021)\n−0.051*** (0.015)\n−0.050*** (0.009)\n0.174 (0.135)\n\n\nSpatial deflator\n0.153*** (0.038)\n0.159*** (0.030)\n0.136*** (0.034)\n0.085*** (0.021)\n0.107*** (0.026)\n0.135*** (0.022)\n0.114*** (0.017)\n0.073*** (0.010)\n0.952*** (0.145)\n\n\nNum.Obs.\n14384\n14382\n14382\n14378\n14378\n14377\n14376\n14376\n14436\n\n\nR2\n0.002\n0.003\n0.002\n0.002\n0.002\n0.004\n0.005\n0.006\n0.005\n\n\nR2 Adj.\n0.002\n0.003\n0.002\n0.002\n0.002\n0.004\n0.005\n0.006\n0.005\n\n\n\n * p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nComparison of m2 across different food insecurity outcomes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFood Insecurity Outcomes\n\n\n\n\nWorried\nUnhealthy\nLow Diversity\nSkip Meal\nEat Less\nRan Out\nWent Hungry\nWhole Day\nTotfoodinsec\n\n\n\n\nConstant\n0.227*** (0.012)\n0.133*** (0.009)\n0.172*** (0.011)\n0.069*** (0.007)\n0.100*** (0.008)\n0.057*** (0.006)\n0.026*** (0.004)\n0.006*** (0.002)\n0.790*** (0.043)\n\n\nLocation cost quintile 2\n0.092*** (0.019)\n0.041*** (0.014)\n0.096*** (0.017)\n0.001 (0.010)\n0.029** (0.013)\n0.029*** (0.010)\n0.018*** (0.007)\n0.008** (0.003)\n0.314*** (0.066)\n\n\nLocation cost quintile 3\n0.047*** (0.017)\n0.023* (0.014)\n0.010 (0.015)\n−0.012 (0.009)\n−0.004 (0.012)\n0.016* (0.009)\n0.023*** (0.006)\n0.008*** (0.003)\n0.111* (0.061)\n\n\nLocation cost quintile 4\n0.085*** (0.019)\n0.071*** (0.016)\n0.109*** (0.018)\n0.031** (0.012)\n0.062*** (0.015)\n0.062*** (0.012)\n0.057*** (0.010)\n0.016*** (0.006)\n0.486*** (0.083)\n\n\nLocation cost quintile 5\n0.099*** (0.018)\n0.078*** (0.014)\n0.085*** (0.016)\n0.034*** (0.010)\n0.048*** (0.012)\n0.068*** (0.011)\n0.050*** (0.008)\n0.034*** (0.005)\n0.492*** (0.068)\n\n\nNum.Obs.\n14384\n14382\n14382\n14378\n14378\n14377\n14376\n14376\n14436\n\n\nR2\n0.007\n0.006\n0.012\n0.004\n0.006\n0.008\n0.009\n0.007\n0.011\n\n\nR2 Adj.\n0.007\n0.006\n0.011\n0.004\n0.006\n0.008\n0.008\n0.007\n0.011\n\n\n\n * p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nComparison of m3 across different food insecurity outcomes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFood Insecurity Outcomes\n\n\n\n\nWorried\nUnhealthy\nLow Diversity\nSkip Meal\nEat Less\nRan Out\nWent Hungry\nWhole Day\nTotfoodinsec\n\n\n\n\nConstant\n1.310*** (0.100)\n1.044*** (0.084)\n1.078*** (0.092)\n0.547*** (0.055)\n0.787*** (0.072)\n0.477*** (0.054)\n0.309*** (0.042)\n0.113*** (0.023)\n5.640*** (0.392)\n\n\nSpatial deflator\n0.091** (0.038)\n0.105*** (0.030)\n0.084** (0.034)\n0.057*** (0.021)\n0.067** (0.026)\n0.108*** (0.022)\n0.094*** (0.016)\n0.065*** (0.010)\n0.661*** (0.143)\n\n\nLog per-capita income\n−0.082*** (0.006)\n−0.072*** (0.005)\n−0.069*** (0.006)\n−0.039*** (0.004)\n−0.054*** (0.005)\n−0.036*** (0.004)\n−0.025*** (0.003)\n−0.012*** (0.002)\n−0.386*** (0.027)\n\n\nNum.Obs.\n14374\n14372\n14372\n14368\n14368\n14367\n14366\n14366\n14426\n\n\nR2\n0.034\n0.038\n0.028\n0.022\n0.027\n0.020\n0.017\n0.013\n0.047\n\n\nR2 Adj.\n0.034\n0.038\n0.028\n0.022\n0.027\n0.019\n0.017\n0.012\n0.047\n\n\n\n * p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nComparison of m4 across different food insecurity outcomes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFood Insecurity Outcomes\n\n\n\n\nWorried\nUnhealthy\nLow Diversity\nSkip Meal\nEat Less\nRan Out\nWent Hungry\nWhole Day\nTotfoodinsec\n\n\n\n\nConstant\n1.306*** (0.100)\n1.048*** (0.084)\n1.079*** (0.092)\n0.559*** (0.056)\n0.803*** (0.072)\n0.488*** (0.055)\n0.312*** (0.042)\n0.111*** (0.023)\n5.677*** (0.398)\n\n\nSpatial deflator\n0.093** (0.038)\n0.103*** (0.030)\n0.084** (0.034)\n0.051** (0.021)\n0.059** (0.026)\n0.102*** (0.022)\n0.093*** (0.016)\n0.066*** (0.010)\n0.643*** (0.145)\n\n\nLog per-capita income\n−0.082*** (0.006)\n−0.072*** (0.005)\n−0.069*** (0.006)\n−0.039*** (0.004)\n−0.054*** (0.005)\n−0.036*** (0.004)\n−0.025*** (0.003)\n−0.011*** (0.002)\n−0.387*** (0.027)\n\n\nAgricultural household\n0.006 (0.014)\n−0.006 (0.011)\n−0.002 (0.013)\n−0.016** (0.007)\n−0.023** (0.009)\n−0.016** (0.008)\n−0.004 (0.006)\n0.003 (0.004)\n−0.054 (0.051)\n\n\nNum.Obs.\n14374\n14372\n14372\n14368\n14368\n14367\n14366\n14366\n14426\n\n\nR2\n0.034\n0.038\n0.028\n0.023\n0.028\n0.020\n0.017\n0.013\n0.047\n\n\nR2 Adj.\n0.034\n0.038\n0.028\n0.022\n0.028\n0.020\n0.017\n0.012\n0.047\n\n\n\n * p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLogistic and Poisson Regression Models for Food Insecurity Measures\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFood Insecurity Outcomes\n\n\n\n\nWorried\nUnhealthy\nLow Diversity\nSkip Meal\nEat Less\nRan Out\nWent Hungry\nWhole Day\nTotfoodinsec\n\n\n\n\nConstant\n4.099*** (0.648)\n4.466*** (0.699)\n4.239*** (0.688)\n3.013*** (0.872)\n3.980*** (0.818)\n3.324*** (0.851)\n2.646*** (0.969)\n2.007 (1.297)\n4.210*** (0.474)\n\n\nSpatial deflator\n0.038 (0.196)\n0.487** (0.195)\n0.173 (0.203)\n0.585** (0.233)\n0.415* (0.224)\n0.549** (0.224)\n0.882*** (0.229)\n1.464*** (0.259)\n0.308** (0.138)\n\n\nLog per-capita income\n−0.371*** (0.044)\n−0.474*** (0.049)\n−0.412*** (0.047)\n−0.439*** (0.063)\n−0.468*** (0.058)\n−0.454*** (0.061)\n−0.463*** (0.072)\n−0.539*** (0.100)\n−0.327*** (0.034)\n\n\nNum.Obs.\n14374\n14372\n14372\n14368\n14368\n14367\n14366\n14366\n14426\n\n\n\n * p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlinear models (FIES indicators)linear models (Total food insecurity score)logit models\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in Food Insecurity and Inflation Analysis\nFood Insecurity Measures (FIES)\n\ntotfoodinsec: Total food insecurity score Individual FIES indicators:\nworried: Worried about not having enough food\nunhealthy: Unable to eat healthy/nutritious foods\nlow_diversity: Limited variety in diet\nskip_meal: Skipped meals\neat_less: Ate less than should have\nran_out: Ran out of food\nwent_hungry: Went hungry\nwhole_day: Went whole day without eating\n\nPrice and Inflation Variables\n\nCPI: Regional inflation measure\npdef3: Spatial deflator/local cost of living index\nloc_cost_quint: Location cost quintiles (1-5)\n\nSocioeconomic Variables\n\nln_pc_def_inc: Log of per capita deflated income\nquint: Income quintile (1=Poorest to 5=Richest)\nhhag: Agricultural household indicator\npopw: Population weight for representative statistics",
+    "crumbs": [
+      "Food Insecurity",
+      "Relationship between Inflation and Food Insecurity"
+    ]
   },
   {
     "objectID": "food_insecurity/food_insec_2.html#model-summary-relation-inflation-and-food-insecurity",
     "href": "food_insecurity/food_insec_2.html#model-summary-relation-inflation-and-food-insecurity",
     "title": "Relationship between Inflation and Food Insecurity",
     "section": "",
-    "text": "To test this relationship a conditional logistic regression model is used, implemented through the survival::clogit function, which incorporates fixed effects by stratifying observations within groups. This approach is complemented by a linear fixed effects regression model using fixest::feols, allowing for comparison between binary and continuous outcome specifications while controlling for time-invariant unobserved heterogeneity.\n\n\n\nLinear modelLogit model\n\n\n\n\n\n\n\n\n  Household Fixed Effects Linear Models\n  \n    \n      Household Fixed Effects Linear Models\n    \n    \n    \n       \n      \n        Food Insecurity Outcomes\n      \n    \n    \n      Worried\n      Unhealthy\n      Low Diversity\n      Skip Meal\n      Eat Less\n      Ran Out\n      Went Hungry\n      Whole Day\n      Totfoodinsec\n    \n  \n  \n    Consumer Price Index\n0.017** (0.007)\n0.031*** (0.007)\n0.016** (0.007)\n0.008 (0.005)\n0.009 (0.006)\n0.017*** (0.006)\n0.011** (0.005)\n0.002 (0.003)\n0.105*** (0.030)\n    Num.Obs.\n12407\n12405\n12405\n12402\n12402\n12401\n12400\n12400\n12457\n  \n  \n    \n      * p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n    \n    \n      Standard errors clustered at household level\n    \n  \n  \n\n\n\n\n\n\n\n\n\nEffect of Consumer Price Index (CPI) on Food Insecurity: Household Fixed Effects Logistic Models\n\n\nFood Insecurity Measure\nOdds Ratio (95% CI)\nStd. Error\n\n\n\n\nWorried about food\n1.15** (1.02-1.30)\n0.062\n\n\nUnable to eat healthy\n1.33*** (1.17-1.51)\n0.065\n\n\nLow food diversity\n1.15** (1.01-1.30)\n0.063\n\n\nSkipped meals\n1.12 (0.95-1.31)\n0.083\n\n\nAte less than needed\n1.11 (0.96-1.28)\n0.074\n\n\nRan out of food\n1.28*** (1.09-1.50)\n0.082\n\n\nWent hungry\n1.24** (1.03-1.50)\n0.096\n\n\nWhole day without food\n1.09 (0.83-1.43)\n0.140\n\n\nTotal food insecurity\n1.07 (0.91-1.26)\n0.083\n\n\n\n* * p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n\n\n\n\n† Odds ratios represent the effect of a one-unit increase in CPI on the likelihood of experiencing each food insecurity outcome\n\n\n\n\n‡ Standard errors are robust and clustered at household level\n\n\n\n\n§ Models estimated using conditional logistic regression (clogit)"
+    "text": "To test this relationship a conditional logistic regression model is used, implemented through the survival::clogit function, which incorporates fixed effects by stratifying observations within groups. This approach is complemented by a linear fixed effects regression model using fixest::feols, allowing for comparison between binary and continuous outcome specifications while controlling for time-invariant unobserved heterogeneity.\n\n\n\nLinear modelLogit model\n\n\n\n\n\n\n\n\nHousehold Fixed Effects Linear Models\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHousehold Fixed Effects Linear Models\n\n\n\n\nFood Insecurity Outcomes\n\n\n\nWorried\nUnhealthy\nLow Diversity\nSkip Meal\nEat Less\nRan Out\nWent Hungry\nWhole Day\nTotfoodinsec\n\n\n\n\nConsumer Price Index\n0.005 (0.007)\n0.013* (0.007)\n-0.004 (0.007)\n0.004 (0.005)\n-0.001 (0.006)\n0.008 (0.006)\n0.006 (0.005)\n0.001 (0.003)\n0.026 (0.027)\n\n\nNum.Obs.\n10795\n10793\n10793\n10790\n10790\n10789\n10788\n10788\n10843\n\n\n\n* p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n\n\nStandard errors clustered at household level\n\n\n\n\n\n\n\n\n\n\n\n\n\nEffect of Consumer Price Index (CPI) on Food Insecurity: Household Fixed Effects Logistic Models\n\n\nFood Insecurity Measure\nOdds Ratio (95% CI)\nStd. Error\n\n\n\n\nWorried about food\n1.05 (0.91-1.20)\n0.069\n\n\nUnable to eat healthy\n1.14* (0.99-1.32)\n0.073\n\n\nLow food diversity\n0.96 (0.83-1.10)\n0.072\n\n\nSkipped meals\n1.06 (0.88-1.28)\n0.095\n\n\nAte less than needed\n0.99 (0.84-1.17)\n0.085\n\n\nRan out of food\n1.15 (0.96-1.39)\n0.096\n\n\nWent hungry\n1.15 (0.93-1.43)\n0.111\n\n\nWhole day without food\n1.06 (0.77-1.46)\n0.162\n\n\nTotal food insecurity\n0.97 (0.81-1.15)\n0.090\n\n\n\n* * p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n\n\n\n\n† Odds ratios represent the effect of a one-unit increase in CPI on the likelihood of experiencing each food insecurity outcome\n\n\n\n\n‡ Standard errors are robust and clustered at household level\n\n\n\n\n§ Models estimated using conditional logistic regression (clogit)",
+    "crumbs": [
+      "Food Insecurity",
+      "Relationship between Inflation and Food Insecurity"
+    ]
   },
   {
     "objectID": "food_insecurity/food_insec_2.html#relationship-between-inflation-and-income",
     "href": "food_insecurity/food_insec_2.html#relationship-between-inflation-and-income",
     "title": "Relationship between Inflation and Food Insecurity",
     "section": "",
-    "text": "These regression models show the relationship between income and the different FIES components, revealing how economic factors such as household income, local food costs, and agricultural participation influence various dimensions of food insecurity. The analysis examines eight distinct food insecurity indicators—from worrying about food to going whole days without eating—and explores how these experiences vary across income quintiles and local food cost distributions. By regressing each food insecurity measure against per capita income, local food prices, and agricultural household status, we can identify which economic factors most strongly predict different manifestations of food insecurity in Indonesia.\n\n\n\\[\n\\begin{align}\n\\text{Model 1: } & y_i = \\beta_0 + \\beta_1 \\text{pdef3}_i + \\varepsilon_i \\\\\n\\text{Model 2: } & y_i = \\beta_0 + \\sum_{j=1}^{4} \\beta_j \\mathbb{1}(\\text{loc\\_cost\\_quint}_i = j+1) + \\varepsilon_i \\\\\n\\text{Model 3: } & y_i = \\beta_0 + \\beta_1 \\text{ln\\_pc\\_def\\_inc}_i + \\beta_2 \\text{pdef3}_i + \\varepsilon_i \\\\\n\\text{Model 4: } & y_i = \\beta_0 + \\beta_1 \\text{hhag}_i + \\beta_2 \\text{ln\\_pc\\_def\\_inc}_i + \\beta_3 \\text{pdef3}_i + \\varepsilon_i\\\\\n\\text{Model 5a: } & \\log\\left(\\frac{P(y_i=1)}{1-P(y_i=1)}\\right) = \\beta_0 + \\beta_1 \\text{ln\\_pc\\_def\\_inc}_i + \\beta_2 \\text{pdef3}_i \\\\\n\\text{Model 5b: } & \\log(E(y_i)) = \\beta_0 + \\beta_1 \\text{ln\\_pc\\_def\\_inc}_i + \\beta_2 \\text{pdef3}_i\n\\end{align}\n\\]\n\\[\\text{where } y_i \\text{ represents household-level FIES (Food Insecurity Experience Scale) outcomes}\\] \\[\\text{Model 5a is used for binary outcomes and Model 5b for count data (when totfoodinsec &gt; 1)}\\]\n\n\n\n\\[\n\\begin{align}\n\\text{Model 1: } & \\beta_0 = \\text{Constant} \\\\\n& \\beta_1 = \\text{Spatial deflator} \\\\\n\\\\\n\\text{Model 2: } & \\beta_0 = \\text{Constant} \\\\\n& \\beta_1 = \\text{Location cost quintile 2} \\\\\n& \\beta_2 = \\text{Location cost quintile 3} \\\\\n& \\beta_3 = \\text{Location cost quintile 4} \\\\\n& \\beta_4 = \\text{Location cost quintile 5} \\\\\n\\\\\n\\text{Model 3: } & \\beta_0 = \\text{Constant} \\\\\n& \\beta_1 = \\text{Log per-capita income} \\\\\n& \\beta_2 = \\text{Spatial deflator} \\\\\n\\\\\n\\text{Model 4: } & \\beta_0 = \\text{Constant} \\\\\n& \\beta_1 = \\text{Agricultural household} \\\\\n& \\beta_2 = \\text{Log per-capita income} \\\\\n& \\beta_3 = \\text{Spatial deflator} \\\\\n\\\\\n\\text{Model 5a/5b: } & \\beta_0 = \\text{Constant} \\\\\n& \\beta_1 = \\text{Log per-capita income} \\\\\n& \\beta_2 = \\text{Spatial deflator}\n\\end{align}\n\\]\n\\[\\text{Note: All models are weighted using population weights (popw) to ensure representativeness.}\\] \\[\\text{All models use heteroskedasticity-consistent standard errors}\\]\n\n\n\n\nmodel 1model 2model 3model 4model 5\n\n\n\n\n\nComparison of m1 across different food insecurity outcomes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFood Insecurity Outcomes\n\n\n\n\nWorried\nUnhealthy\nLow Diversity\nSkip Meal\nEat Less\nRan Out\nWent Hungry\nWhole Day\nTotfoodinsec\n\n\n\n\nConstant\n0.164*** (0.036)\n0.030 (0.029)\n0.100*** (0.033)\n0.003 (0.020)\n0.018 (0.025)\n−0.026 (0.021)\n−0.045*** (0.016)\n−0.049*** (0.009)\n0.201 (0.137)\n\n\nSpatial deflator\n0.144*** (0.038)\n0.165*** (0.030)\n0.157*** (0.034)\n0.087*** (0.021)\n0.125*** (0.027)\n0.133*** (0.023)\n0.113*** (0.017)\n0.075*** (0.011)\n0.988*** (0.147)\n\n\nNum.Obs.\n14819\n14817\n14817\n14813\n14813\n14812\n14811\n14811\n14872\n\n\nR2\n0.002\n0.004\n0.003\n0.002\n0.003\n0.004\n0.004\n0.005\n0.005\n\n\nR2 Adj.\n0.002\n0.004\n0.003\n0.002\n0.003\n0.004\n0.004\n0.005\n0.005\n\n\n\n * p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nComparison of m2 across different food insecurity outcomes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFood Insecurity Outcomes\n\n\n\n\nWorried\nUnhealthy\nLow Diversity\nSkip Meal\nEat Less\nRan Out\nWent Hungry\nWhole Day\nTotfoodinsec\n\n\n\n\nConstant\n0.241*** (0.012)\n0.145*** (0.010)\n0.191*** (0.011)\n0.073*** (0.007)\n0.105*** (0.008)\n0.066*** (0.006)\n0.031*** (0.004)\n0.008*** (0.002)\n0.860*** (0.044)\n\n\nLocation cost quintile 2\n0.084*** (0.019)\n0.035** (0.015)\n0.082*** (0.017)\n0.002 (0.010)\n0.031** (0.013)\n0.027*** (0.010)\n0.021*** (0.007)\n0.007* (0.003)\n0.288*** (0.067)\n\n\nLocation cost quintile 3\n0.039** (0.017)\n0.018 (0.014)\n0.008 (0.015)\n−0.010 (0.009)\n−0.001 (0.012)\n0.013 (0.009)\n0.025*** (0.007)\n0.008*** (0.003)\n0.099 (0.063)\n\n\nLocation cost quintile 4\n0.082*** (0.019)\n0.070*** (0.016)\n0.103*** (0.018)\n0.032*** (0.012)\n0.069*** (0.015)\n0.066*** (0.013)\n0.059*** (0.011)\n0.018*** (0.006)\n0.492*** (0.084)\n\n\nLocation cost quintile 5\n0.090*** (0.018)\n0.074*** (0.014)\n0.087*** (0.016)\n0.032*** (0.010)\n0.053*** (0.013)\n0.063*** (0.011)\n0.051*** (0.008)\n0.034*** (0.005)\n0.481*** (0.070)\n\n\nNum.Obs.\n14819\n14817\n14817\n14813\n14813\n14812\n14811\n14811\n14872\n\n\nR2\n0.006\n0.006\n0.010\n0.004\n0.007\n0.008\n0.008\n0.007\n0.011\n\n\nR2 Adj.\n0.006\n0.005\n0.010\n0.004\n0.006\n0.007\n0.008\n0.007\n0.010\n\n\n\n * p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nComparison of m3 across different food insecurity outcomes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFood Insecurity Outcomes\n\n\n\n\nWorried\nUnhealthy\nLow Diversity\nSkip Meal\nEat Less\nRan Out\nWent Hungry\nWhole Day\nTotfoodinsec\n\n\n\n\nConstant\n1.325*** (0.100)\n1.089*** (0.084)\n1.108*** (0.092)\n0.568*** (0.056)\n0.804*** (0.073)\n0.506*** (0.056)\n0.343*** (0.044)\n0.138*** (0.024)\n5.853*** (0.398)\n\n\nSpatial deflator\n0.081** (0.038)\n0.107*** (0.031)\n0.102*** (0.035)\n0.056*** (0.021)\n0.083*** (0.027)\n0.104*** (0.023)\n0.092*** (0.017)\n0.065*** (0.010)\n0.681*** (0.146)\n\n\nLog per-capita income\n−0.082*** (0.006)\n−0.075*** (0.005)\n−0.071*** (0.006)\n−0.040*** (0.004)\n−0.055*** (0.005)\n−0.038*** (0.004)\n−0.027*** (0.003)\n−0.013*** (0.002)\n−0.399*** (0.027)\n\n\nNum.Obs.\n14808\n14806\n14806\n14802\n14802\n14801\n14800\n14800\n14861\n\n\nR2\n0.033\n0.039\n0.029\n0.022\n0.028\n0.019\n0.017\n0.014\n0.047\n\n\nR2 Adj.\n0.033\n0.039\n0.029\n0.022\n0.028\n0.019\n0.017\n0.014\n0.047\n\n\n\n * p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nComparison of m4 across different food insecurity outcomes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFood Insecurity Outcomes\n\n\n\n\nWorried\nUnhealthy\nLow Diversity\nSkip Meal\nEat Less\nRan Out\nWent Hungry\nWhole Day\nTotfoodinsec\n\n\n\n\nConstant\n1.318*** (0.100)\n1.092*** (0.085)\n1.108*** (0.093)\n0.577*** (0.057)\n0.821*** (0.074)\n0.516*** (0.057)\n0.343*** (0.044)\n0.133*** (0.024)\n5.877*** (0.403)\n\n\nSpatial deflator\n0.084** (0.038)\n0.106*** (0.031)\n0.102*** (0.035)\n0.052** (0.021)\n0.074*** (0.027)\n0.099*** (0.022)\n0.092*** (0.017)\n0.067*** (0.010)\n0.669*** (0.147)\n\n\nLog per-capita income\n−0.082*** (0.006)\n−0.075*** (0.005)\n−0.071*** (0.006)\n−0.040*** (0.004)\n−0.056*** (0.005)\n−0.038*** (0.004)\n−0.027*** (0.003)\n−0.013*** (0.002)\n−0.399*** (0.027)\n\n\nAgricultural household\n0.010 (0.014)\n−0.004 (0.011)\n0.001 (0.013)\n−0.013* (0.007)\n−0.024*** (0.009)\n−0.014* (0.008)\n−0.001 (0.006)\n0.006* (0.004)\n−0.035 (0.051)\n\n\nNum.Obs.\n14808\n14806\n14806\n14802\n14802\n14801\n14800\n14800\n14861\n\n\nR2\n0.033\n0.040\n0.029\n0.022\n0.029\n0.019\n0.017\n0.014\n0.047\n\n\nR2 Adj.\n0.033\n0.039\n0.029\n0.022\n0.029\n0.019\n0.017\n0.014\n0.047\n\n\n\n * p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLogistic and Poisson Regression Models for Food Insecurity Measures\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFood Insecurity Outcomes\n\n\n\n\nWorried\nUnhealthy\nLow Diversity\nSkip Meal\nEat Less\nRan Out\nWent Hungry\nWhole Day\nTotfoodinsec\n\n\n\n\nConstant\n4.213*** (0.620)\n4.507*** (0.661)\n4.383*** (0.642)\n3.063*** (0.806)\n3.991*** (0.752)\n3.285*** (0.783)\n2.696*** (0.903)\n2.549** (1.226)\n4.211*** (0.438)\n\n\nSpatial deflator\n0.038 (0.188)\n0.560*** (0.184)\n0.207 (0.193)\n0.526** (0.218)\n0.435** (0.209)\n0.508** (0.212)\n0.918*** (0.216)\n1.358*** (0.250)\n0.311** (0.126)\n\n\nLog per-capita income\n−0.374*** (0.042)\n−0.476*** (0.046)\n−0.417*** (0.044)\n−0.432*** (0.058)\n−0.462*** (0.053)\n−0.440*** (0.056)\n−0.462*** (0.067)\n−0.567*** (0.094)\n−0.322*** (0.031)\n\n\nNum.Obs.\n14808\n14806\n14806\n14802\n14802\n14801\n14800\n14800\n14861\n\n\n\n * p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlinear models (FIES indicators)linear models (Total food insecurity score)logit models\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in Food Insecurity and Inflation Analysis\nFood Insecurity Measures (FIES)\n\ntotfoodinsec: Total food insecurity score Individual FIES indicators:\nworried: Worried about not having enough food\nunhealthy: Unable to eat healthy/nutritious foods\nlow_diversity: Limited variety in diet\nskip_meal: Skipped meals\neat_less: Ate less than should have\nran_out: Ran out of food\nwent_hungry: Went hungry\nwhole_day: Went whole day without eating\n\nPrice and Inflation Variables\n\nCPI: Regional inflation measure\npdef3: Spatial deflator/local cost of living index\nloc_cost_quint: Location cost quintiles (1-5)\n\nSocioeconomic Variables\n\nln_pc_def_inc: Log of per capita deflated income\nquint: Income quintile (1=Poorest to 5=Richest)\nhhag: Agricultural household indicator\npopw: Population weight for representative statistics"
+    "text": "These regression models show the relationship between income and the different FIES components, revealing how economic factors such as household income, local food costs, and agricultural participation influence various dimensions of food insecurity. The analysis examines eight distinct food insecurity indicators—from worrying about food to going whole days without eating—and explores how these experiences vary across income quintiles and local food cost distributions. By regressing each food insecurity measure against per capita income, local food prices, and agricultural household status, we can identify which economic factors most strongly predict different manifestations of food insecurity in Indonesia.\n\n\n\\[\n\\begin{align}\n\\text{Model 1: } & y_i = \\beta_0 + \\beta_1 \\text{pdef3}_i + \\varepsilon_i \\\\\n\\text{Model 2: } & y_i = \\beta_0 + \\sum_{j=1}^{4} \\beta_j \\mathbb{1}(\\text{loc\\_cost\\_quint}_i = j+1) + \\varepsilon_i \\\\\n\\text{Model 3: } & y_i = \\beta_0 + \\beta_1 \\text{ln\\_pc\\_def\\_inc}_i + \\beta_2 \\text{pdef3}_i + \\varepsilon_i \\\\\n\\text{Model 4: } & y_i = \\beta_0 + \\beta_1 \\text{hhag}_i + \\beta_2 \\text{ln\\_pc\\_def\\_inc}_i + \\beta_3 \\text{pdef3}_i + \\varepsilon_i\\\\\n\\text{Model 5a: } & \\log\\left(\\frac{P(y_i=1)}{1-P(y_i=1)}\\right) = \\beta_0 + \\beta_1 \\text{ln\\_pc\\_def\\_inc}_i + \\beta_2 \\text{pdef3}_i \\\\\n\\text{Model 5b: } & \\log(E(y_i)) = \\beta_0 + \\beta_1 \\text{ln\\_pc\\_def\\_inc}_i + \\beta_2 \\text{pdef3}_i\n\\end{align}\n\\]\n\\[\\text{where } y_i \\text{ represents household-level FIES (Food Insecurity Experience Scale) outcomes}\\] \\[\\text{Model 5a is used for binary outcomes and Model 5b for count data (when totfoodinsec &gt; 1)}\\]\n\n\n\n\\[\n\\begin{align}\n\\text{Model 1: } & \\beta_0 = \\text{Constant} \\\\\n& \\beta_1 = \\text{Spatial deflator} \\\\\n\\\\\n\\text{Model 2: } & \\beta_0 = \\text{Constant} \\\\\n& \\beta_1 = \\text{Location cost quintile 2} \\\\\n& \\beta_2 = \\text{Location cost quintile 3} \\\\\n& \\beta_3 = \\text{Location cost quintile 4} \\\\\n& \\beta_4 = \\text{Location cost quintile 5} \\\\\n\\\\\n\\text{Model 3: } & \\beta_0 = \\text{Constant} \\\\\n& \\beta_1 = \\text{Log per-capita income} \\\\\n& \\beta_2 = \\text{Spatial deflator} \\\\\n\\\\\n\\text{Model 4: } & \\beta_0 = \\text{Constant} \\\\\n& \\beta_1 = \\text{Agricultural household} \\\\\n& \\beta_2 = \\text{Log per-capita income} \\\\\n& \\beta_3 = \\text{Spatial deflator} \\\\\n\\\\\n\\text{Model 5a/5b: } & \\beta_0 = \\text{Constant} \\\\\n& \\beta_1 = \\text{Log per-capita income} \\\\\n& \\beta_2 = \\text{Spatial deflator}\n\\end{align}\n\\]\n\\[\\text{Note: All models are weighted using population weights (popw) to ensure representativeness.}\\] \\[\\text{All models use heteroskedasticity-consistent standard errors}\\]\n\n\n\n\nmodel 1model 2model 3model 4model 5\n\n\n\n\n\nComparison of m1 across different food insecurity outcomes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFood Insecurity Outcomes\n\n\n\n\nWorried\nUnhealthy\nLow Diversity\nSkip Meal\nEat Less\nRan Out\nWent Hungry\nWhole Day\nTotfoodinsec\n\n\n\n\nConstant\n0.148*** (0.036)\n0.025 (0.028)\n0.104*** (0.032)\n−0.001 (0.019)\n0.027 (0.024)\n−0.036* (0.021)\n−0.051*** (0.015)\n−0.050*** (0.009)\n0.174 (0.135)\n\n\nSpatial deflator\n0.153*** (0.038)\n0.159*** (0.030)\n0.136*** (0.034)\n0.085*** (0.021)\n0.107*** (0.026)\n0.135*** (0.022)\n0.114*** (0.017)\n0.073*** (0.010)\n0.952*** (0.145)\n\n\nNum.Obs.\n14384\n14382\n14382\n14378\n14378\n14377\n14376\n14376\n14436\n\n\nR2\n0.002\n0.003\n0.002\n0.002\n0.002\n0.004\n0.005\n0.006\n0.005\n\n\nR2 Adj.\n0.002\n0.003\n0.002\n0.002\n0.002\n0.004\n0.005\n0.006\n0.005\n\n\n\n * p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nComparison of m2 across different food insecurity outcomes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFood Insecurity Outcomes\n\n\n\n\nWorried\nUnhealthy\nLow Diversity\nSkip Meal\nEat Less\nRan Out\nWent Hungry\nWhole Day\nTotfoodinsec\n\n\n\n\nConstant\n0.227*** (0.012)\n0.133*** (0.009)\n0.172*** (0.011)\n0.069*** (0.007)\n0.100*** (0.008)\n0.057*** (0.006)\n0.026*** (0.004)\n0.006*** (0.002)\n0.790*** (0.043)\n\n\nLocation cost quintile 2\n0.092*** (0.019)\n0.041*** (0.014)\n0.096*** (0.017)\n0.001 (0.010)\n0.029** (0.013)\n0.029*** (0.010)\n0.018*** (0.007)\n0.008** (0.003)\n0.314*** (0.066)\n\n\nLocation cost quintile 3\n0.047*** (0.017)\n0.023* (0.014)\n0.010 (0.015)\n−0.012 (0.009)\n−0.004 (0.012)\n0.016* (0.009)\n0.023*** (0.006)\n0.008*** (0.003)\n0.111* (0.061)\n\n\nLocation cost quintile 4\n0.085*** (0.019)\n0.071*** (0.016)\n0.109*** (0.018)\n0.031** (0.012)\n0.062*** (0.015)\n0.062*** (0.012)\n0.057*** (0.010)\n0.016*** (0.006)\n0.486*** (0.083)\n\n\nLocation cost quintile 5\n0.099*** (0.018)\n0.078*** (0.014)\n0.085*** (0.016)\n0.034*** (0.010)\n0.048*** (0.012)\n0.068*** (0.011)\n0.050*** (0.008)\n0.034*** (0.005)\n0.492*** (0.068)\n\n\nNum.Obs.\n14384\n14382\n14382\n14378\n14378\n14377\n14376\n14376\n14436\n\n\nR2\n0.007\n0.006\n0.012\n0.004\n0.006\n0.008\n0.009\n0.007\n0.011\n\n\nR2 Adj.\n0.007\n0.006\n0.011\n0.004\n0.006\n0.008\n0.008\n0.007\n0.011\n\n\n\n * p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nComparison of m3 across different food insecurity outcomes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFood Insecurity Outcomes\n\n\n\n\nWorried\nUnhealthy\nLow Diversity\nSkip Meal\nEat Less\nRan Out\nWent Hungry\nWhole Day\nTotfoodinsec\n\n\n\n\nConstant\n1.310*** (0.100)\n1.044*** (0.084)\n1.078*** (0.092)\n0.547*** (0.055)\n0.787*** (0.072)\n0.477*** (0.054)\n0.309*** (0.042)\n0.113*** (0.023)\n5.640*** (0.392)\n\n\nSpatial deflator\n0.091** (0.038)\n0.105*** (0.030)\n0.084** (0.034)\n0.057*** (0.021)\n0.067** (0.026)\n0.108*** (0.022)\n0.094*** (0.016)\n0.065*** (0.010)\n0.661*** (0.143)\n\n\nLog per-capita income\n−0.082*** (0.006)\n−0.072*** (0.005)\n−0.069*** (0.006)\n−0.039*** (0.004)\n−0.054*** (0.005)\n−0.036*** (0.004)\n−0.025*** (0.003)\n−0.012*** (0.002)\n−0.386*** (0.027)\n\n\nNum.Obs.\n14374\n14372\n14372\n14368\n14368\n14367\n14366\n14366\n14426\n\n\nR2\n0.034\n0.038\n0.028\n0.022\n0.027\n0.020\n0.017\n0.013\n0.047\n\n\nR2 Adj.\n0.034\n0.038\n0.028\n0.022\n0.027\n0.019\n0.017\n0.012\n0.047\n\n\n\n * p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nComparison of m4 across different food insecurity outcomes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFood Insecurity Outcomes\n\n\n\n\nWorried\nUnhealthy\nLow Diversity\nSkip Meal\nEat Less\nRan Out\nWent Hungry\nWhole Day\nTotfoodinsec\n\n\n\n\nConstant\n1.306*** (0.100)\n1.048*** (0.084)\n1.079*** (0.092)\n0.559*** (0.056)\n0.803*** (0.072)\n0.488*** (0.055)\n0.312*** (0.042)\n0.111*** (0.023)\n5.677*** (0.398)\n\n\nSpatial deflator\n0.093** (0.038)\n0.103*** (0.030)\n0.084** (0.034)\n0.051** (0.021)\n0.059** (0.026)\n0.102*** (0.022)\n0.093*** (0.016)\n0.066*** (0.010)\n0.643*** (0.145)\n\n\nLog per-capita income\n−0.082*** (0.006)\n−0.072*** (0.005)\n−0.069*** (0.006)\n−0.039*** (0.004)\n−0.054*** (0.005)\n−0.036*** (0.004)\n−0.025*** (0.003)\n−0.011*** (0.002)\n−0.387*** (0.027)\n\n\nAgricultural household\n0.006 (0.014)\n−0.006 (0.011)\n−0.002 (0.013)\n−0.016** (0.007)\n−0.023** (0.009)\n−0.016** (0.008)\n−0.004 (0.006)\n0.003 (0.004)\n−0.054 (0.051)\n\n\nNum.Obs.\n14374\n14372\n14372\n14368\n14368\n14367\n14366\n14366\n14426\n\n\nR2\n0.034\n0.038\n0.028\n0.023\n0.028\n0.020\n0.017\n0.013\n0.047\n\n\nR2 Adj.\n0.034\n0.038\n0.028\n0.022\n0.028\n0.020\n0.017\n0.012\n0.047\n\n\n\n * p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLogistic and Poisson Regression Models for Food Insecurity Measures\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFood Insecurity Outcomes\n\n\n\n\nWorried\nUnhealthy\nLow Diversity\nSkip Meal\nEat Less\nRan Out\nWent Hungry\nWhole Day\nTotfoodinsec\n\n\n\n\nConstant\n4.099*** (0.648)\n4.466*** (0.699)\n4.239*** (0.688)\n3.013*** (0.872)\n3.980*** (0.818)\n3.324*** (0.851)\n2.646*** (0.969)\n2.007 (1.297)\n4.210*** (0.474)\n\n\nSpatial deflator\n0.038 (0.196)\n0.487** (0.195)\n0.173 (0.203)\n0.585** (0.233)\n0.415* (0.224)\n0.549** (0.224)\n0.882*** (0.229)\n1.464*** (0.259)\n0.308** (0.138)\n\n\nLog per-capita income\n−0.371*** (0.044)\n−0.474*** (0.049)\n−0.412*** (0.047)\n−0.439*** (0.063)\n−0.468*** (0.058)\n−0.454*** (0.061)\n−0.463*** (0.072)\n−0.539*** (0.100)\n−0.327*** (0.034)\n\n\nNum.Obs.\n14374\n14372\n14372\n14368\n14368\n14367\n14366\n14366\n14426\n\n\n\n * p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlinear models (FIES indicators)linear models (Total food insecurity score)logit models\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in Food Insecurity and Inflation Analysis\nFood Insecurity Measures (FIES)\n\ntotfoodinsec: Total food insecurity score Individual FIES indicators:\nworried: Worried about not having enough food\nunhealthy: Unable to eat healthy/nutritious foods\nlow_diversity: Limited variety in diet\nskip_meal: Skipped meals\neat_less: Ate less than should have\nran_out: Ran out of food\nwent_hungry: Went hungry\nwhole_day: Went whole day without eating\n\nPrice and Inflation Variables\n\nCPI: Regional inflation measure\npdef3: Spatial deflator/local cost of living index\nloc_cost_quint: Location cost quintiles (1-5)\n\nSocioeconomic Variables\n\nln_pc_def_inc: Log of per capita deflated income\nquint: Income quintile (1=Poorest to 5=Richest)\nhhag: Agricultural household indicator\npopw: Population weight for representative statistics",
+    "crumbs": [
+      "Food Insecurity",
+      "Relationship between Inflation and Food Insecurity"
+    ]
+  },
+  {
+    "objectID": "finance/finance_02.html",
+    "href": "finance/finance_02.html",
+    "title": "Cost of Living",
+    "section": "",
+    "text": "The richest quintile consistently buys more and pays more for food items.",
+    "crumbs": [
+      "Finance",
+      "Cost of Living"
+    ]
+  },
+  {
+    "objectID": "finance/finance_02.html#cost-of-food-items",
+    "href": "finance/finance_02.html#cost-of-food-items",
+    "title": "Cost of Living",
+    "section": "",
+    "text": "The richest quintile consistently buys more and pays more for food items.",
+    "crumbs": [
+      "Finance",
+      "Cost of Living"
+    ]
+  },
+  {
+    "objectID": "finance/finance_02.html#subjective-increase-of-prices",
+    "href": "finance/finance_02.html#subjective-increase-of-prices",
+    "title": "Cost of Living",
+    "section": "Subjective increase of prices",
+    "text": "Subjective increase of prices\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in the Cost of Living Analysis Food Prices and Consumption\n\nwb16/wb17: Rice quantity purchased (kg) and price paid\nwb18/wb19: Chicken quantity purchased (kg) and price paid\nwb20/wb21: Eggs quantity purchased and price paid\n\nPrice Perceptions and Inflation\n\nvw5: Agreement with statement “Prices for sembako (9 essential commodities) rose too fast over the PAST 30 DAYS”\nsv28: Subjective inflation perception (whether prices rose faster than usual, at typical pace, or slower)\n\nFinancial Resilience\n\nsv30: Ability to pay emergency expense of 300,000 Rupiah using available resources\n\nGrouping Variables\n\nquint: Household wealth quintile (from poorest to richest)\nregion: Geographic region within Indonesia\ndate: Time period of observation",
+    "crumbs": [
+      "Finance",
+      "Cost of Living"
+    ]
+  },
+  {
+    "objectID": "basic_services/basic_services_02.html",
+    "href": "basic_services/basic_services_02.html",
+    "title": "Water",
+    "section": "",
+    "text": "Only data from the last 12 months is used (May 2024 to April 2025) for this analysis.",
+    "crumbs": [
+      "Basic services",
+      "Water"
+    ]
+  },
+  {
+    "objectID": "basic_services/basic_services_02.html#percentage-of-households-with-water-supply-disruption-in-the-past-30-days",
+    "href": "basic_services/basic_services_02.html#percentage-of-households-with-water-supply-disruption-in-the-past-30-days",
+    "title": "Water",
+    "section": "",
+    "text": "Only data from the last 12 months is used (May 2024 to April 2025) for this analysis.",
+    "crumbs": [
+      "Basic services",
+      "Water"
+    ]
+  },
+  {
+    "objectID": "basic_services/basic_services_02.html#alternative-water-sources-during-disruptions",
+    "href": "basic_services/basic_services_02.html#alternative-water-sources-during-disruptions",
+    "title": "Water",
+    "section": "Alternative Water Sources During Disruptions",
+    "text": "Alternative Water Sources During Disruptions\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in Water Supply Analysis Water Disruption Indicators\n\nsh1: Whether household had unexpected disruption in drinking water supply in past 30 days (Yes/No)\nsh2: Number of days with water supply disruption in past 30 days\nsh3: Main alternative water source during disruption (categorical: piped water, well, bottled water, etc.)\n\nWater Access and Quality Concerns\n\nwat_all: Days without enough water for household needs\nwat1: Days worried about not having enough water\nwat2: Days clothes couldn’t be washed due to water problems\nwat3: Days with schedule changes due to water problems\nwat4: Days with diet changes due to water problems\nwat5: Days without handwashing after dirty activities\nwat6: Days without body washing due to water problems\nwat7: Days without enough drinking water\nwat8: Frequency of anger about water situation\nwat9: Days gone to sleep thirsty due to lack of water\nwat10: Days with no useable/drinkable water whatsoever\nwat11: Frequency of feeling ashamed/excluded due to water problems\n\nDemographic and Geographic Variables\n\nquint: Income quintile (1=Poorest to 5=Richest)\nregion: Geographic region within Indonesia\npopw: Population weight for representative statistics\ndate: Time period of observation",
+    "crumbs": [
+      "Basic services",
+      "Water"
+    ]
+  },
+  {
+    "objectID": "food_insecurity/food_insec_1.html",
+    "href": "food_insecurity/food_insec_1.html",
+    "title": "Food Insecurity",
+    "section": "",
+    "text": "Summary of Food Inscurity\n\nFies Indicators over time\nThis chart displays the levels of food insecurity in Indonesia from May 2024 to April 2025, highlighting a general downward trend across all FIES (Food Insecurity Experience Scale) indicators, with milder concerns like “worried about not having enough food” remaining most prevalent, while severe experiences such as “went without eating for a whole day” affected the smallest portion of the population.\n\n\n\n\n\n\n\n\nDistribution of number of FIES deprivations\nIndonesia’s FIES deprivation data reveals that a majority of the population experiences zero food insecurity indicators, with percentages steadily declining as severity increases, demonstrating that food insecurity follows a clear gradient with most citizens experiencing either none or few food challenges.\n\nStep chartArea chart by count\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRegional comparison for latest month\nRegional food insecurity patterns across Indonesia’s major islands display distinct variations, with Nusa Tenggara and Maluku showing larger footprints suggesting more severe challenges, while Kalimantan and Papua exhibit more compact profiles indicating potentially fewer or less intense food security issues across measured dimensions.\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in Food Insecurity and Inflation Analysis\nFood Insecurity Measures (FIES)\n\ntotfoodinsec: Total food insecurity score Individual FIES indicators:\nworried: Worried about not having enough food\nunhealthy: Unable to eat healthy/nutritious foods\nlow_diversity: Limited variety in diet\nskip_meal: Skipped meals\neat_less: Ate less than should have\nran_out: Ran out of food\nwent_hungry: Went hungry\nwhole_day: Went whole day without eating\n\nPrice and Inflation Variables\n\nCPI: Regional inflation measure\npdef3: Spatial deflator/local cost of living index\nloc_cost_quint: Location cost quintiles (1-5)\n\nSocioeconomic Variables\n\nln_pc_def_inc: Log of per capita deflated income\nquint: Income quintile (1=Poorest to 5=Richest)\nhhag: Agricultural household indicator\npopw: Population weight for representative statistics",
+    "crumbs": [
+      "Food Insecurity",
+      "Food Insecurity"
+    ]
   },
   {
     "objectID": "fraud/fraud_01.html#traditional-banks-are-perceived-as-much-safer-than-digital-wallets",
     "href": "fraud/fraud_01.html#traditional-banks-are-perceived-as-much-safer-than-digital-wallets",
     "title": "Fraud",
     "section": "Traditional banks are perceived as much safer than digital wallets",
-    "text": "Traditional banks are perceived as much safer than digital wallets\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in Fraud Analysis Fraud Experience and Reporting\n\nsv33: Whether household experienced fraud/theft/financial loss in past 30 days (Yes/No)\never_fraud: Indicator if household ever experienced fraud\nfraud_with_loss: Indicator for fraud resulting in actual financial loss\nsv37: Amount of financial loss from fraud\nsv38A-sv38E: Where fraud was reported (bank, police, local government, regulator/helpline) or not reported\n\nTrust in Financial Institutions\n\nsv31: Perception of security with formal banking:\nsv32: Perception of security with mobile money (same scale as sv31)\n\nLoss Amount Classification - loss_grp: Categorized fraud loss amounts\nDemographic Grouping\n\nquint: Income quintile (1=Poorest to 5=Richest)\npopw: Population weight for representative estimates"
+    "text": "Traditional banks are perceived as much safer than digital wallets\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in Fraud Analysis Fraud Experience and Reporting\n\nsv33: Whether household experienced fraud/theft/financial loss in past 30 days (Yes/No)\never_fraud: Indicator if household ever experienced fraud\nfraud_with_loss: Indicator for fraud resulting in actual financial loss\nsv37: Amount of financial loss from fraud\nsv38A-sv38E: Where fraud was reported (bank, police, local government, regulator/helpline) or not reported\n\nTrust in Financial Institutions\n\nsv31: Perception of security with formal banking:\nsv32: Perception of security with mobile money (same scale as sv31)\n\nLoss Amount Classification - loss_grp: Categorized fraud loss amounts\nDemographic Grouping\n\nquint: Income quintile (1=Poorest to 5=Richest)\npopw: Population weight for representative estimates",
+    "crumbs": [
+      "Fraud and Consumer Protection",
+      "Fraud"
+    ]
+  },
+  {
+    "objectID": "views/views_02.html",
+    "href": "views/views_02.html",
+    "title": "Taxation Preferences",
+    "section": "",
+    "text": "Only data from the last 12 months is used (May 2024 to April 2025) for these analyses.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in Taxation Preferences Analysis Paired Tax Comparisons\n\ntax2_1/tax21: First set of paired tax options and respondent choice\ntax2_2/tax22: Second set of paired tax options and respondent choice\ntax2_3/tax23: Third set of paired tax options and respondent choice\n\nTax Types Included in Comparisons Tax options coded as letters (a-m) representing:\n\nConsumption (VAT)\nPersonal income tax\nCorporate income tax\nLocal tax\nTax on imports (tariffs)\nSocial tax/contributions in payroll\nTax on land value\nFinancial transaction tax\nTax on cigarettes\nTax on sugar\nTax on alcohol\nTax on single use plastic\nTax on pollution/greenhouse gases\n\nAnalysis Metrics\n\nwin_rate: Percentage of times a tax option was chosen when presented\npairwise comparisons: Direct head-to-head preferences between tax types",
+    "crumbs": [
+      "Views on Policy",
+      "Taxation Preferences"
+    ]
+  },
+  {
+    "objectID": "finance/finance_03.html#business-owners",
+    "href": "finance/finance_03.html#business-owners",
+    "title": "Account use and borrowing",
+    "section": "Business owners",
+    "text": "Business owners\nHouseholds that ‘received any self employment or business income for the LAST 30 DAYS’ are more likely to save for the future.\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in the Analysis Plot 1: Banking, Mobile Money, and Credit Usage Across Household Quintiles Financial Service Access:\n\nsv1: Formal bank account usage\nsv2: Mobile money/e-wallet service usage\nsv7: Plastic payment/bank card ownership\nsv9: QRIS transaction usage\nsv44: New account openings\n\nBorrowing and Credit:\n\nsv12: Loan/credit applications\nsv19: Outstanding loans/credit\nwb6: Borrowing for basic needs\n\nAttitudes Toward Credit:\n\nsv40: Willingness to borrow at lower interest rates\nsv41: Trust in lenders\nsv42: Current need for borrowing\n\nPlot 2: Financial Behaviors by Business/Self-Employment Income Key Variables:\n\ninc12: Self-employment/business income indicator\nsv1: Formal bank account usage\nsv2: Mobile money/e-wallet service usage\nsv9: QRIS transaction usage\nsv12: Loan/credit applications\nsv19: Outstanding loans/credit\nsv3: Ability to save for the future",
+    "crumbs": [
+      "Finance",
+      "Account use and borrowing"
+    ]
   },
   {
     "objectID": "incomes/incomes_02.html",
     "href": "incomes/incomes_02.html",
     "title": "Income volatility",
     "section": "",
-    "text": "Only data from the last 6 months is used (October 2024 to March 2025) for this analysis\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in Income Volatility Analysis Income Variables\n\npc_inc_real_spadef: Real per capita income (inflation-adjusted) - primary measurement variable\nsd_income: Standard deviation of household income over 6-month period\nmean_income: Mean household income over 6-month period\ncv_income: Coefficient of variation of income ((sd/mean)*100) - key volatility metric\n\nGrouping Variables\n\nhhid: Household identifier (for household-level calculations)\nquint: Income quintile (1=Poorest to 5=Richest)\nindw: Individual weight variable (used for weighted averages)\n\nTime Variables\n\ndate: Date variable"
+    "text": "Only data from the last 6 months is used (November 2024 to April 2025) for this analysis\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in Income Volatility Analysis Income Variables\n\npc_inc_real_spadef: Real per capita income (inflation-adjusted) - primary measurement variable\nsd_income: Standard deviation of household income over 6-month period\nmean_income: Mean household income over 6-month period\ncv_income: Coefficient of variation of income ((sd/mean)*100) - key volatility metric\n\nGrouping Variables\n\nhhid: Household identifier (for household-level calculations)\nquint: Income quintile (1=Poorest to 5=Richest)\nindw: Individual weight variable (used for weighted averages)\n\nTime Variables\n\ndate: Date variable",
+    "crumbs": [
+      "Incomes",
+      "Income volatility"
+    ]
   },
   {
-    "objectID": "subjective_poverty/subjective_poverty_01.html",
-    "href": "subjective_poverty/subjective_poverty_01.html",
-    "title": "Poverty: Economic Volatility and Aspirations in Indonesia",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction",
     "section": "",
-    "text": "Only data from the last month (March 2025) is used for this analysis. Green flows show an improvement, blue flows represent household that expect the same socio-economic status in 5 years and red flows expect a decline."
+    "text": "The Listening to Indonesia is the World Bank analytical program to track household welfare, economic conditions, and public sentiment through regular panel surveys across the country. In the first stage, we visit 500 communities across the country, oversampling from households with small enterprises. Next, we randomly select four households from each community to participate in the monthly panel. We interview the same households every month, replacing if needed from the same community if a household drops.",
+    "crumbs": [
+      "Listening to Indonesia",
+      "Introduction"
+    ]
   },
   {
-    "objectID": "subjective_poverty/subjective_poverty_01.html#most-indonesians-expect-a-better-future",
-    "href": "subjective_poverty/subjective_poverty_01.html#most-indonesians-expect-a-better-future",
-    "title": "Poverty: Economic Volatility and Aspirations in Indonesia",
-    "section": "Most Indonesians expect a better future",
-    "text": "Most Indonesians expect a better future\n\nTotal population\nwhere are you now and in 5 years\n\n\n\n\n\n\n\n\n\nMen\n\n\n\n\n\n\n\n\n\nWomen"
+    "objectID": "index.html#listening-to-indonesia",
+    "href": "index.html#listening-to-indonesia",
+    "title": "Introduction",
+    "section": "",
+    "text": "The Listening to Indonesia is the World Bank analytical program to track household welfare, economic conditions, and public sentiment through regular panel surveys across the country. In the first stage, we visit 500 communities across the country, oversampling from households with small enterprises. Next, we randomly select four households from each community to participate in the monthly panel. We interview the same households every month, replacing if needed from the same community if a household drops.",
+    "crumbs": [
+      "Listening to Indonesia",
+      "Introduction"
+    ]
   },
   {
-    "objectID": "subjective_poverty/subjective_poverty_01.html#outlook-on-the-future-is-improving",
-    "href": "subjective_poverty/subjective_poverty_01.html#outlook-on-the-future-is-improving",
-    "title": "Poverty: Economic Volatility and Aspirations in Indonesia",
-    "section": "Outlook on the future is improving",
-    "text": "Outlook on the future is improving\nOnly small differences between men and women"
+    "objectID": "index.html#what-is-listening-to-indonesia",
+    "href": "index.html#what-is-listening-to-indonesia",
+    "title": "Introduction",
+    "section": "What is Listening to Indonesia?",
+    "text": "What is Listening to Indonesia?\n\nNationally representative survey on social and economic wellbeing every month\nMeasuring impact of policy or reforms, with a very short lag\nBlends welfare monitoring with polling questions, focused on the drivers of change\nInterviews with people from all walks of life, regions, rural and urban areas",
+    "crumbs": [
+      "Listening to Indonesia",
+      "Introduction"
+    ]
   },
   {
-    "objectID": "subjective_poverty/subjective_poverty_01.html#life-satisfaction-correlates-in-indonesian-households",
-    "href": "subjective_poverty/subjective_poverty_01.html#life-satisfaction-correlates-in-indonesian-households",
-    "title": "Poverty: Economic Volatility and Aspirations in Indonesia",
-    "section": "Life Satisfaction Correlates in Indonesian Households",
-    "text": "Life Satisfaction Correlates in Indonesian Households\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in Poverty and Economic Aspirations Analysis Socioeconomic Self-Classification\n-wb32: Current self-reported economic class (1=Extreme poor to 5=Rich) - wb33: Expected economic class in 5 years (same scale) - vw23: Self-identifies as poor (Yes/No) - subj_poor: Derived binary indicator for subjectively poor\nHousehold Life Satisfaction\n\nwb3_num: Household life satisfaction measure (numeric scale)\nwb3: Life satisfaction of household (original factor variable)\ndissatis_index: Composite index of various dissatisfaction indicators\n\nHousehold Financial Situation\n\nwb1/wb2: Comparison of financial wellbeing (past 30 days/next 30 days)\nwb5: Ability to pay for utilities\nwb6: Borrowed money for basic needs\nwb7: Used savings for basic needs\nwb8: Sold assets for basic needs\nsv3: Ability to save money\n\nInfrastructure Access\n\nsh1: Water disruption indicator\nsh4/sh5: Electricity availability\nsh12/sh14: Internet disruption (home/mobile)\n\nHealth and Education\n\nwb9/wb10: Healthcare needs and access\nwb12: Household sickness indicator\nsh16: Children missed school indicator\nsh21_a-f: Major life events (birth, illness, injury, death)\n\nFood Security\n\ntotfoodinsec: Food insecurity index\nVarious individual food insecurity indicators (worried, unhealthy, skip_meal, etc.)\n\nIncome Sources\n\ninc1/inc4/inc8/inc10/inc12: Different income sources (pension, social assistance, wages, agriculture, self-employment)\n\nPublic Perceptions\n\nvw2/vw4/vw13/vw19/vw24: Views on government, economy, and institutions\nvw9/vw10: Job market and business climate perceptions\nsv28: Inflation perception"
+    "objectID": "analyse_data/analyse_data_01.html",
+    "href": "analyse_data/analyse_data_01.html",
+    "title": "Data crosstabulations",
+    "section": "",
+    "text": "Please visit: https://datanalytics.worldbank.org/indo_survey_analyse/ for access to the interactive data crosstabulation tool where you can explore survey relationships, create custom tables, generate visualizations, and export analysis results. We are working on embedding this into the tool itself\n\n\n\nFull Screen",
+    "crumbs": [
+      "Other cross tabulations",
+      "Data crosstabulations"
+    ]
+  },
+  {
+    "objectID": "basic_services/basic_services_01.html#corrrelation-between-different-questions-about-electricity",
+    "href": "basic_services/basic_services_01.html#corrrelation-between-different-questions-about-electricity",
+    "title": "Electricity",
+    "section": "Corrrelation between different questions about electricity",
+    "text": "Corrrelation between different questions about electricity\nThere is a clear correlation between perceptions of electricity service quality as a serious problem and support for increased tariffs to improve quality, suggesting that consumers who recognize service problems are more willing to pay higher rates for improvements.\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in Electricity Analysis Electricity Availability\n\nsh4: Hours of electricity available for household yesterday\nsh5: Hours of electricity available for household the day before yesterday\nsh7: Number of days the last electricity payment covered\n\nElectricity Perceptions and Policy Preferences\n\nvw1: “The electricity tariff my household pays is too high” (Agree/Disagree)\nvw31: “Electricity tariffs should be increased to improve service quality” (Agree/Disagree)\nvw35: “Electricity service quality is a serious problem for my household” (Agree/Disagree)\nvw_sub1: “Government subsidies for electricity and fuel are appropriately targeted to the consumers who need them” (Agree/Disagree)\n\nDemographic and Time Variables\n\ndate: Time period of observation\npopw: Population weight for representative statistics",
+    "crumbs": [
+      "Basic services",
+      "Electricity"
+    ]
+  },
+  {
+    "objectID": "food_insecurity/food_insec_3.html",
+    "href": "food_insecurity/food_insec_3.html",
+    "title": "Food Insecurity within households",
+    "section": "",
+    "text": "These sankey diagrams show the change over time of various FIES indicators.\n\n\n\n\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in Food Insecurity and Inflation Analysis\nFood Insecurity Measures (FIES)\n\ntotfoodinsec: Total food insecurity score Individual FIES indicators:\nworried: Worried about not having enough food\nunhealthy: Unable to eat healthy/nutritious foods\nlow_diversity: Limited variety in diet\nskip_meal: Skipped meals\neat_less: Ate less than should have\nran_out: Ran out of food\nwent_hungry: Went hungry\nwhole_day: Went whole day without eating\n\nPrice and Inflation Variables\n\nCPI: Regional inflation measure\npdef3: Spatial deflator/local cost of living index\nloc_cost_quint: Location cost quintiles (1-5)\n\nSocioeconomic Variables\n\nln_pc_def_inc: Log of per capita deflated income\nquint: Income quintile (1=Poorest to 5=Richest)\nhhag: Agricultural household indicator\npopw: Population weight for representative statistics",
+    "crumbs": [
+      "Food Insecurity",
+      "Food Insecurity within households"
+    ]
+  },
+  {
+    "objectID": "food_insecurity/food_insec_3.html#sankey-diagrams",
+    "href": "food_insecurity/food_insec_3.html#sankey-diagrams",
+    "title": "Food Insecurity within households",
+    "section": "",
+    "text": "Variables used on this page\n\nVariables Used in Food Insecurity and Inflation Analysis\nFood Insecurity Measures (FIES)\n\ntotfoodinsec: Total food insecurity score Individual FIES indicators:\nworried: Worried about not having enough food\nunhealthy: Unable to eat healthy/nutritious foods\nlow_diversity: Limited variety in diet\nskip_meal: Skipped meals\neat_less: Ate less than should have\nran_out: Ran out of food\nwent_hungry: Went hungry\nwhole_day: Went whole day without eating\n\nPrice and Inflation Variables\n\nCPI: Regional inflation measure\npdef3: Spatial deflator/local cost of living index\nloc_cost_quint: Location cost quintiles (1-5)\n\nSocioeconomic Variables\n\nln_pc_def_inc: Log of per capita deflated income\nquint: Income quintile (1=Poorest to 5=Richest)\nhhag: Agricultural household indicator\npopw: Population weight for representative statistics",
+    "crumbs": [
+      "Food Insecurity",
+      "Food Insecurity within households"
+    ]
+  },
+  {
+    "objectID": "finance/finance_01.html",
+    "href": "finance/finance_01.html",
+    "title": "Borrowing and Saving",
+    "section": "",
+    "text": "Only data from the last 12 months is used (May 2024 to April 2025) for these analyses.",
+    "crumbs": [
+      "Finance",
+      "Borrowing and Saving"
+    ]
+  },
+  {
+    "objectID": "finance/finance_01.html#financial-security",
+    "href": "finance/finance_01.html#financial-security",
+    "title": "Borrowing and Saving",
+    "section": "",
+    "text": "Only data from the last 12 months is used (May 2024 to April 2025) for these analyses.",
+    "crumbs": [
+      "Finance",
+      "Borrowing and Saving"
+    ]
+  },
+  {
+    "objectID": "finance/finance_01.html#digital-divide-and-infrastructure-challenges",
+    "href": "finance/finance_01.html#digital-divide-and-infrastructure-challenges",
+    "title": "Borrowing and Saving",
+    "section": "Digital Divide and Infrastructure Challenges",
+    "text": "Digital Divide and Infrastructure Challenges\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in the Borrowing and Saving Analysis Savings Methods and Behavior\n\nsv3: Ability to save for the future over the past 30 days (Yes/No)\nsv4: Amount saved in the past 30 days\nsv5A-sv5V: Forms of savings (indicators for different methods)\n\nBank account (sv5A)\nE-wallet (sv5B)-\nCash at home (sv5C)\nGroup savings (sv5D) I\nnvestments/Other (sv5E/sv5V)\n\n\nBorrowing Behavior\n\nsv12: Applied for credit or loan in the past 30 days (Yes/No)\nwb32: Subjective household economic class self-identification\n\nContextual Variables\n\nquint: Household wealth quintile (from poorest to richest)\ndate: Time period of observation\ninfl: Inflation measure used to calculate real savings",
+    "crumbs": [
+      "Finance",
+      "Borrowing and Saving"
+    ]
   },
   {
     "objectID": "views/views_01.html",
     "href": "views/views_01.html",
     "title": "Views on Government Institutions",
     "section": "",
-    "text": "Only data from the last 12 months is used (April 2024 to March 2025) for these analyses."
+    "text": "Only data from the last 12 months is used (May 2024 to April 2025) for these analyses.",
+    "crumbs": [
+      "Views on Policy",
+      "Views on Government Institutions"
+    ]
   },
   {
     "objectID": "views/views_01.html#majority-of-population-is-positive-on-economic-conditions",
     "href": "views/views_01.html#majority-of-population-is-positive-on-economic-conditions",
     "title": "Views on Government Institutions",
     "section": "Majority of population is positive on economic conditions",
-    "text": "Majority of population is positive on economic conditions"
+    "text": "Majority of population is positive on economic conditions",
+    "crumbs": [
+      "Views on Policy",
+      "Views on Government Institutions"
+    ]
   },
   {
     "objectID": "views/views_01.html#institutional-trust-and-public-confidence",
     "href": "views/views_01.html#institutional-trust-and-public-confidence",
     "title": "Views on Government Institutions",
     "section": "Institutional Trust and Public Confidence",
-    "text": "Institutional Trust and Public Confidence"
+    "text": "Institutional Trust and Public Confidence",
+    "crumbs": [
+      "Views on Policy",
+      "Views on Government Institutions"
+    ]
   },
   {
     "objectID": "views/views_01.html#the-middle-class-pays-attention-to-government-and-their-views-are-responsive",
     "href": "views/views_01.html#the-middle-class-pays-attention-to-government-and-their-views-are-responsive",
     "title": "Views on Government Institutions",
     "section": "The middle class pays attention to government, and their views are responsive",
-    "text": "The middle class pays attention to government, and their views are responsive\n\n\n\n\n\n\nThe visualization above illustrates how various factors influence whether middle class Indonesians believe the country is on the right track. The y-axis shows the percentage increase or decrease in probability of a middle class person thinking Indonesia’s policy is on the right track associated with each factor.\nThe statistical model takes the form:\n\\[\\text{logit}(P(\\text{right\\_track} = 1)) = \\beta_{\\text{predictor}} \\cdot \\text{predictor} + \\alpha_i + \\varepsilon\\]\nWhere:\n\nright_track is a binary indicator (0/1) for whether a respondent thinks Indonesia is on the right track\npredictor is each binary indicator for various conditions or beliefs\n\\(\\alpha_i\\) represents household fixed effects\nModels are estimated using conditional logistic regression\n\nThe y-axis values represent the percentage increase in the probability associated with each factor, calculated as:\n\\[\\text{Percentage Increase} = (\\exp(\\beta_{\\text{predictor}}) - 1) \\times 100\\%\\]\nFor example, a value of 241% for “Government is doing well on corruption” means that middle class individuals who believe the government is performing well on anti-corruption efforts are 241% more likely to think the country is on the right track. Conversely, negative values indicate factors that decrease this probability.\nThis analysis reveals that perceptions of government performance on issues like corruption, fair elections, economic performance, and digital services are strongly associated with overall satisfaction with the country’s direction. Interestingly, factors like air pollution concerns and personal economic conditions also play significant roles in shaping middle class views on national progress.\n\n\nVariables used on this page\n\n\nVariables Used in Government Institutions Analysis Economic Perceptions\n\nwb14: Assessment of neighborhood economic conditions (Very good/Good/Bad/Very bad)\necon_conditions: Binary classification of economic conditions (Good/Bad)\nvw19: Whether the country is on the right track (used as right_track)\n\nTrust in Institutions\n\ntrust1_a to trust1_k: Trust in various institutions (media, government, etc.)\ntrust2_a to trust2_k: Perceptions of institutional fairness/equality\ntrust3_a to trust3_k: Perceptions of institutional efficiency/competence\n\nGovernment Perceptions\n\nvw2: Belief that government engages in open dialogue\nvw4: Trust in election fairness\nvw24: Satisfaction with anti-corruption efforts\n\nSocioeconomic Classification\n\nwb32: Self-reported economic class used to derive: - subj_poor: Poor classification - lowmid_class: Lower middle class - upmid_class: Upper middle class\n\nInfrastructure and Services\n\nsh1: Water service disruption\nsh4/sh5: Electricity availability\nsh12/sh14: Internet disruption (home/mobile)\nvw22: Satisfaction with digital services\n\nEconomic Indicators\n\nvw9: Perception of job market\nvw10: Perception of business climate sv28: Subjective inflation experience vw13: Economic optimism\n\nHousehold Challenges\n\nwb5: Ability to pay utilities\nwb6: Borrowing for basic needs\nsv3: Ability to save\nwb8: Need to sell assets\nwb9/wb10: Healthcare needs and access\nvw16/vw17: Educational concerns and satisfaction"
+    "text": "The middle class pays attention to government, and their views are responsive\n\n\n\n\n\n\nThe visualization above illustrates how various factors influence whether middle class Indonesians believe the country is on the right track. The y-axis shows the percentage increase or decrease in probability of a middle class person thinking Indonesia’s policy is on the right track associated with each factor.\nThe statistical model takes the form:\n\\[\\text{logit}(P(\\text{right\\_track} = 1)) = \\beta_{\\text{predictor}} \\cdot \\text{predictor} + \\alpha_i + \\varepsilon\\]\nWhere:\n\nright_track is a binary indicator (0/1) for whether a respondent thinks Indonesia is on the right track\npredictor is each binary indicator for various conditions or beliefs\n\\(\\alpha_i\\) represents household fixed effects\nModels are estimated using conditional logistic regression\n\nThe y-axis values represent the percentage increase in the probability associated with each factor, calculated as:\n\\[\\text{Percentage Increase} = (\\exp(\\beta_{\\text{predictor}}) - 1) \\times 100\\%\\]\nFor example, a value of 241% for “Government is doing well on corruption” means that middle class individuals who believe the government is performing well on anti-corruption efforts are 241% more likely to think the country is on the right track. Conversely, negative values indicate factors that decrease this probability.\nThis analysis reveals that perceptions of government performance on issues like corruption, fair elections, economic performance, and digital services are strongly associated with overall satisfaction with the country’s direction. Interestingly, factors like air pollution concerns and personal economic conditions also play significant roles in shaping middle class views on national progress.\n\n\nVariables used on this page\n\n\nVariables Used in Government Institutions Analysis Economic Perceptions\n\nwb14: Assessment of neighborhood economic conditions (Very good/Good/Bad/Very bad)\necon_conditions: Binary classification of economic conditions (Good/Bad)\nvw19: Whether the country is on the right track (used as right_track)\n\nTrust in Institutions\n\ntrust1_a to trust1_k: Trust in various institutions (media, government, etc.)\ntrust2_a to trust2_k: Perceptions of institutional fairness/equality\ntrust3_a to trust3_k: Perceptions of institutional efficiency/competence\n\nGovernment Perceptions\n\nvw2: Belief that government engages in open dialogue\nvw4: Trust in election fairness\nvw24: Satisfaction with anti-corruption efforts\n\nSocioeconomic Classification\n\nwb32: Self-reported economic class used to derive: - subj_poor: Poor classification - lowmid_class: Lower middle class - upmid_class: Upper middle class\n\nInfrastructure and Services\n\nsh1: Water service disruption\nsh4/sh5: Electricity availability\nsh12/sh14: Internet disruption (home/mobile)\nvw22: Satisfaction with digital services\n\nEconomic Indicators\n\nvw9: Perception of job market\nvw10: Perception of business climate sv28: Subjective inflation experience vw13: Economic optimism\n\nHousehold Challenges\n\nwb5: Ability to pay utilities\nwb6: Borrowing for basic needs\nsv3: Ability to save\nwb8: Need to sell assets\nwb9/wb10: Healthcare needs and access\nvw16/vw17: Educational concerns and satisfaction",
+    "crumbs": [
+      "Views on Policy",
+      "Views on Government Institutions"
+    ]
+  },
+  {
+    "objectID": "incomes/incomes_01.html",
+    "href": "incomes/incomes_01.html",
+    "title": "Income sources",
+    "section": "",
+    "text": "Only data from the last 12 months is used (May 2024 to April 2025) for this analysis",
+    "crumbs": [
+      "Incomes",
+      "Income sources"
+    ]
+  },
+  {
+    "objectID": "incomes/incomes_01.html#minimum-wage-perceptions",
+    "href": "incomes/incomes_01.html#minimum-wage-perceptions",
+    "title": "Income sources",
+    "section": "Minimum Wage Perceptions",
+    "text": "Minimum Wage Perceptions",
+    "crumbs": [
+      "Incomes",
+      "Income sources"
+    ]
+  },
+  {
+    "objectID": "incomes/incomes_01.html#financial-support-programs",
+    "href": "incomes/incomes_01.html#financial-support-programs",
+    "title": "Income sources",
+    "section": "Financial Support Programs",
+    "text": "Financial Support Programs\nOnly data from the last 1 month is used (April 2025) for these analyses.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in Income Sources Analysis Employment Status\n\nac1: Work for pay/profit/gain in past 7 days (Yes/No)\nclean_class: Socioeconomic classification (Poor, Lower middle class, Upper middle class)\n\nIncome Composition\n\nwage_incshare: Percentage of income from wages\nse_incshare: Percentage of income from self-employment\nag_incshare: Percentage of income from agriculture\nsa_incshare: Percentage of income from social assistance\nrem_incshare: Percentage of income from remittances\npens_incshare: Percentage of income from pensions\noth_incshare: Percentage of income from other sources\n\nMinimum Wage Perceptions\n\nvw43_idr: Respondent’s perception of current minimum wage\nmw2023: Actual minimum wage\ndiff_minwage: Difference between perceived and actual minimum wage\nvw42: Whether employers pay minimum wage (perception)\nvw44: Opinion on whether minimum wage should be higher\n\nSocial Protection Receipt\n\ninc1: Household received pension/retirement benefits\ninc4: Household received social assistance/insurance\ninc5A-inc5V: Sources of social assistance (government transfers, NGOs, religious institutions, etc.)\n\nDemographic Grouping\n\nquint: Income quintile (1=Poorest to 5=Richest)\npopw: Population weight for representative statistics",
+    "crumbs": [
+      "Incomes",
+      "Income sources"
+    ]
+  },
+  {
+    "objectID": "subjective_poverty/subjective_poverty_02.html#individual-characteristics-by-self-reported-class",
+    "href": "subjective_poverty/subjective_poverty_02.html#individual-characteristics-by-self-reported-class",
+    "title": "Poverty: Self Classification",
+    "section": "Individual characteristics by self-reported class",
+    "text": "Individual characteristics by self-reported class",
+    "crumbs": [
+      "Subjective Poverty",
+      "Poverty: Self Classification"
+    ]
+  },
+  {
+    "objectID": "subjective_poverty/subjective_poverty_02.html#limited-predictability-of-income-and-low-resilience",
+    "href": "subjective_poverty/subjective_poverty_02.html#limited-predictability-of-income-and-low-resilience",
+    "title": "Poverty: Self Classification",
+    "section": "Limited predictability of income and low resilience",
+    "text": "Limited predictability of income and low resilience",
+    "crumbs": [
+      "Subjective Poverty",
+      "Poverty: Self Classification"
+    ]
+  },
+  {
+    "objectID": "subjective_poverty/subjective_poverty_02.html#for-low-income-people-uncertainty-and-risk-of-poverty-are-high-leading-to-costly-coping-strategies",
+    "href": "subjective_poverty/subjective_poverty_02.html#for-low-income-people-uncertainty-and-risk-of-poverty-are-high-leading-to-costly-coping-strategies",
+    "title": "Poverty: Self Classification",
+    "section": "For low-income people, uncertainty and risk of poverty are high, leading to costly coping strategies",
+    "text": "For low-income people, uncertainty and risk of poverty are high, leading to costly coping strategies",
+    "crumbs": [
+      "Subjective Poverty",
+      "Poverty: Self Classification"
+    ]
+  },
+  {
+    "objectID": "subjective_poverty/subjective_poverty_02.html#self-perception-of-poverty-key-determinants",
+    "href": "subjective_poverty/subjective_poverty_02.html#self-perception-of-poverty-key-determinants",
+    "title": "Poverty: Self Classification",
+    "section": "Self-Perception of Poverty: Key Determinants",
+    "text": "Self-Perception of Poverty: Key Determinants\nOnly data from the last 12 months is used (May 2024 to April 2025) for this analysis\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in Self-Classification Analysis Self-Classification Measures\n\nwb32: Self-reported economic class (1=Extreme poor to 5=Rich)\nwb33: Expected economic class in 5 years (same scale)\nvw23: Self-identifies as poor (Yes/No binary)\nclean_class: Derived variable categorizing into “Poor”, “Lower middle class”, “Upper middle class”\nself_poor: Binary indicator for self-identified poverty\n\nIncome and Financial Resilience\n\npc_inc_real_spadef: Real per capita income (inflation-adjusted)\nsv30: Ability to pay emergency expense of 300,000 Rupiah\nquint: Income quintile (1=Poorest to 5=Richest)\n\nIndividual Characteristics\n\nlooking_work: Currently looking for work\npart_time: Works part-time\ndisability: Has disability\n\nFinancial Hardship Indicators\n\nwb5: Ability to pay utilities\nwb6: Borrowed money for basic needs\nwb7: Used savings for basic needs\nwb8: Sold assets for basic needs\nwb1/wb2: Financial wellbeing compared to last/next month\nsv3: Ability to save money\nforgo_health: Foregone healthcare due to cost\n\nHousehold Challenges\n\nsh1/sh4/sh5: Water/electricity disruptions\nsh12/sh14: Internet disruptions\nsh16: Children missed school\nsh21_a-f: Major life events (birth, illness, injury, death)\nwb12: Household sickness\nmaj_illInj: Major illness or injury in household\n\nFood Security Measures\n\ntotfoodinsec: Food insecurity index\nIndividual food insecurity indicators: worried, unhealthy, low_diversity, skip_meal, eat_less, ran_out, went_hungry, whole_day\n\nEconomic Perceptions\n\nwb14: Local economic conditions perception\nvw9/vw10: Job market and business climate perceptions\nvw13: Economic optimism/pessimism",
+    "crumbs": [
+      "Subjective Poverty",
+      "Poverty: Self Classification"
+    ]
+  },
+  {
+    "objectID": "subjective_poverty/subjective_poverty_01.html",
+    "href": "subjective_poverty/subjective_poverty_01.html",
+    "title": "Poverty: Economic Volatility and Aspirations in Indonesia",
+    "section": "",
+    "text": "Only data from the last month (April 2025) is used for this analysis. Green flows show an improvement, blue flows represent household that expect the same socio-economic status in 5 years and red flows expect a decline.",
+    "crumbs": [
+      "Subjective Poverty",
+      "Poverty: Economic Volatility and Aspirations in Indonesia"
+    ]
+  },
+  {
+    "objectID": "subjective_poverty/subjective_poverty_01.html#most-indonesians-expect-a-better-future",
+    "href": "subjective_poverty/subjective_poverty_01.html#most-indonesians-expect-a-better-future",
+    "title": "Poverty: Economic Volatility and Aspirations in Indonesia",
+    "section": "Most Indonesians expect a better future",
+    "text": "Most Indonesians expect a better future\n\nTotal population\nwhere are you now and in 5 years\n\n\n\n\n\n\n\n\nMen\n\n\n\n\n\n\n\n\nWomen",
+    "crumbs": [
+      "Subjective Poverty",
+      "Poverty: Economic Volatility and Aspirations in Indonesia"
+    ]
+  },
+  {
+    "objectID": "subjective_poverty/subjective_poverty_01.html#outlook-on-the-future-is-improving",
+    "href": "subjective_poverty/subjective_poverty_01.html#outlook-on-the-future-is-improving",
+    "title": "Poverty: Economic Volatility and Aspirations in Indonesia",
+    "section": "Outlook on the future is improving",
+    "text": "Outlook on the future is improving\nOnly small differences between men and women",
+    "crumbs": [
+      "Subjective Poverty",
+      "Poverty: Economic Volatility and Aspirations in Indonesia"
+    ]
+  },
+  {
+    "objectID": "subjective_poverty/subjective_poverty_01.html#life-satisfaction-correlates-in-indonesian-households",
+    "href": "subjective_poverty/subjective_poverty_01.html#life-satisfaction-correlates-in-indonesian-households",
+    "title": "Poverty: Economic Volatility and Aspirations in Indonesia",
+    "section": "Life Satisfaction Correlates in Indonesian Households",
+    "text": "Life Satisfaction Correlates in Indonesian Households\n\n\n\n\n\n\n\n\nVariables used on this page\n\nVariables Used in Poverty and Economic Aspirations Analysis Socioeconomic Self-Classification\n-wb32: Current self-reported economic class (1=Extreme poor to 5=Rich) - wb33: Expected economic class in 5 years (same scale) - vw23: Self-identifies as poor (Yes/No) - subj_poor: Derived binary indicator for subjectively poor\nHousehold Life Satisfaction\n\nwb3_num: Household life satisfaction measure (numeric scale)\nwb3: Life satisfaction of household (original factor variable)\ndissatis_index: Composite index of various dissatisfaction indicators\n\nHousehold Financial Situation\n\nwb1/wb2: Comparison of financial wellbeing (past 30 days/next 30 days)\nwb5: Ability to pay for utilities\nwb6: Borrowed money for basic needs\nwb7: Used savings for basic needs\nwb8: Sold assets for basic needs\nsv3: Ability to save money\n\nInfrastructure Access\n\nsh1: Water disruption indicator\nsh4/sh5: Electricity availability\nsh12/sh14: Internet disruption (home/mobile)\n\nHealth and Education\n\nwb9/wb10: Healthcare needs and access\nwb12: Household sickness indicator\nsh16: Children missed school indicator\nsh21_a-f: Major life events (birth, illness, injury, death)\n\nFood Security\n\ntotfoodinsec: Food insecurity index\nVarious individual food insecurity indicators (worried, unhealthy, skip_meal, etc.)\n\nIncome Sources\n\ninc1/inc4/inc8/inc10/inc12: Different income sources (pension, social assistance, wages, agriculture, self-employment)\n\nPublic Perceptions\n\nvw2/vw4/vw13/vw19/vw24: Views on government, economy, and institutions\nvw9/vw10: Job market and business climate perceptions\nsv28: Inflation perception",
+    "crumbs": [
+      "Subjective Poverty",
+      "Poverty: Economic Volatility and Aspirations in Indonesia"
+    ]
   }
 ]
